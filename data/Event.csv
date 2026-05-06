@@ -1,0 +1,732 @@
+Event_ID,Type,Artist,Population,Seasons,Price,Location,IsResident,Tax
+100001,Tech Summit,Rufe Millions,14208.0,,325.0,UW Quad,1.0,41154.387
+100002,Concert,Morgun Queen,4401.0,Fall,244.0,Lumen Field,0.0,34940.214
+100003,Concert,Clari Harkin,10921.0,Spring,280.0,Climate Pledge Arena,1.0,47177.379
+100004,Concert,Anabella Normavell,6237.0,Summer,22.0,Seattle City Centre,1.0,27363.995
+100005,Tech Summit,Eleanor Broscombe,3034.0,Summer,299.0,UW Quad,0.0,48051.556
+100006,Food Tour,Philippe Unwin,966.0,Winter,369.0,UW Quad,0.0,7346.667
+100007,Stand-Up,Aubry Bamsey,6257.0,Fall,92.0,Lumen Field,1.0,25300.465
+100008,Festival,Collen Marriner,,Spring,272.0,Climate Pledge Arena,0.0,48434.028
+100009,Farmers Market,Jdavie Clappson,5979.0,Summer,267.0,Climate Pledge Arena,1.0,1796.556
+100010,Festival,Erek de Leon,7998.0,Winter,359.0,Lumen Field,1.0,11139.836
+100011,Tech Summit,Wesley Burgill,16052.0,Summer,199.0,Water Front,0.0,39713.813
+100012,Parade,Darcee Hair,14710.0,Spring,114.0,Lumen Field,0.0,23456.04
+100013,Farmers Market,Michael Parnham,3002.0,Spring,172.0,T-Mobile Park,1.0,9988.174
+100014,Concert,Matias Savins,2473.0,Fall,114.0,Water Front,0.0,33501.379
+100015,Parade,Laure Mariotte,5061.0,Summer,313.0,Lumen Field,0.0,11084.216
+100016,Stand-Up,Barbee Cochrane,12784.0,Spring,72.0,T-Mobile Park,,34719.7
+100017,Concert,Wilona Stanhope,18364.0,Fall,292.0,T-Mobile Park,1.0,13543.914
+100018,Stand-Up,,5480.0,Spring,305.0,T-Mobile Park,0.0,45664.052
+100019,Tech Summit,Rudyard Taggerty,12671.0,Summer,,Water Front,,32494.189
+100020,Festival,Weber Daoust,16335.0,Fall,273.0,Seattle City Centre,0.0,3778.414
+100021,Parade,Fleming Ballinger,11126.0,Fall,91.0,Climate Pledge Arena,1.0,17717.936
+100022,Farmers Market,Liv Worden,7198.0,Summer,283.0,Climate Pledge Arena,1.0,44061.811
+100023,Food Tour,Lotti Forseith,12411.0,Summer,43.0,Lumen Field,0.0,40657.568
+100024,Stand-Up,Galina Hughill,7863.0,Summer,387.0,T-Mobile Park,1.0,49668.082
+100025,Concert,Gabriel Abraham,11788.0,Winter,281.0,Seattle City Centre,0.0,31073.099
+100026,Concert,Carmelita Ivanchenkov,,Fall,301.0,Climate Pledge Arena,,45842.84
+100027,Farmers Market,Catherin Brimm,690.0,Winter,107.0,T-Mobile Park,0.0,1091.401
+100028,Stand-Up,Idaline Pabelik,12161.0,Winter,,UW Quad,0.0,34869.184
+100029,Stand-Up,Jedediah Briat,14338.0,Winter,130.0,UW Quad,1.0,20583.263
+100030,Parade,Lusa Symcoxe,18865.0,Winter,184.0,UW Quad,0.0,44018.879
+100031,Food Tour,Shelley Rieflin,9631.0,Summer,161.0,Climate Pledge Arena,0.0,41828.006
+100032,Food Tour,Karilynn Bortoloni,8996.0,,284.0,Climate Pledge Arena,1.0,7201.073
+100033,Food Tour,Elsa Schankel,10802.0,Fall,251.0,Seattle City Centre,0.0,8369.121
+100034,Tech Summit,Liza Fawltey,13806.0,Spring,54.0,Water Front,1.0,19228.97
+100035,Parade,Marshall Newlyn,13996.0,Fall,326.0,Seattle City Centre,0.0,16315.128
+100036,Concert,Layla Matousek,18119.0,Summer,312.0,Lumen Field,1.0,12951.424
+100037,Tech Summit,Carly Gellibrand,7515.0,Fall,206.0,Climate Pledge Arena,0.0,30592.078
+100038,Festival,Ky Jennery,18215.0,Summer,62.0,Seattle City Centre,0.0,13323.223
+100039,Festival,Iggy Plover,13646.0,Winter,122.0,T-Mobile Park,1.0,5027.14
+100040,Tech Summit,Gilbert Heersma,15842.0,Winter,372.0,Seattle City Centre,1.0,34757.786
+100041,Tech Summit,Lawrence Kleynen,4539.0,Spring,144.0,Seattle City Centre,1.0,5623.182
+100042,Festival,Bettine Bofield,6322.0,Winter,37.0,Water Front,1.0,10511.888
+100043,Stand-Up,Stephan Berwick,18436.0,Spring,228.0,T-Mobile Park,1.0,4274.181
+100044,Stand-Up,Myriam Maasze,11986.0,Spring,202.0,T-Mobile Park,1.0,37875.331
+100045,Concert,Free Hildred,17470.0,Fall,88.0,UW Quad,0.0,8646.947
+100046,Stand-Up,Rubina Leeson,1266.0,Spring,127.0,Water Front,0.0,8234.171
+100047,Parade,Marc Kildea,18169.0,Spring,354.0,UW Quad,1.0,20645.057
+100048,Stand-Up,Bren Campos,13850.0,Summer,324.0,Lumen Field,1.0,2368.904
+100049,Parade,Laurie Ever,6824.0,Winter,105.0,Seattle City Centre,1.0,43000.624
+100050,Concert,,16990.0,Summer,329.0,Seattle City Centre,1.0,8015.102
+100051,Tech Summit,Callean Huyge,8866.0,Spring,268.0,Water Front,1.0,12484.384
+100052,Festival,Bartholomeo Penhaligon,10710.0,Fall,369.0,Water Front,0.0,3413.727
+100053,Stand-Up,Lorelei End,,Spring,391.0,UW Quad,1.0,11513.906
+100054,Festival,Frank Horburgh,12877.0,Spring,84.0,Climate Pledge Arena,0.0,9630.735
+100055,Tech Summit,Neale Iglesia,18774.0,,179.0,Seattle City Centre,0.0,42833.841
+100056,Concert,Steffane Goozee,1996.0,Summer,215.0,Seattle City Centre,0.0,41328.194
+100057,Festival,Ellene Huxter,4616.0,Fall,384.0,Climate Pledge Arena,0.0,8106.649
+100058,Parade,Beatrice Tree,10991.0,Winter,60.0,Seattle City Centre,0.0,6684.655
+100059,Food Tour,Gracie Pee,9468.0,,395.0,Climate Pledge Arena,0.0,36413.546
+100060,Stand-Up,,11299.0,Fall,259.0,Water Front,0.0,3975.309
+100061,Farmers Market,Idalia Sabine,8701.0,Spring,169.0,T-Mobile Park,1.0,45447.45
+100062,Stand-Up,Jenny Hands,14867.0,Summer,330.0,Climate Pledge Arena,0.0,23823.872
+100063,Farmers Market,Cyndy Bennell,9921.0,Spring,48.0,UW Quad,0.0,1906.64
+100064,Festival,Daphene Shelly,2119.0,Summer,176.0,Water Front,1.0,5029.977
+100065,Farmers Market,Juline Espinha,3399.0,Winter,85.0,Lumen Field,0.0,26487.937
+100066,Tech Summit,Morry Merida,2670.0,Summer,196.0,Climate Pledge Arena,1.0,19734.319
+100067,Stand-Up,Elbertina Tremollet,5993.0,Winter,23.0,Lumen Field,0.0,31744.795
+100068,Festival,Brittany Causon,6314.0,Winter,62.0,Water Front,1.0,39803.596
+100069,Tech Summit,Justino Ainslie,14842.0,Winter,243.0,T-Mobile Park,1.0,43953.525
+100070,Concert,Agnese Cossom,10868.0,Fall,176.0,Lumen Field,0.0,12826.188
+100071,Farmers Market,Jose Shuttle,10227.0,Winter,381.0,T-Mobile Park,1.0,22339.967
+100072,Concert,Kenton Trevithick,2396.0,Fall,327.0,Seattle City Centre,1.0,4066.569
+100073,Concert,Karry Beazley,8990.0,Spring,112.0,UW Quad,1.0,28758.068
+100074,Food Tour,Callean Riepel,14773.0,Summer,80.0,Lumen Field,0.0,48359.532
+100075,Farmers Market,Sheffy Cahey,17382.0,Spring,268.0,T-Mobile Park,0.0,18930.371
+100076,Parade,Ashli McInility,7445.0,Spring,146.0,Climate Pledge Arena,0.0,45317.034
+100077,Parade,Beckie Hellcat,14130.0,Spring,309.0,Water Front,,34092.776
+100078,Tech Summit,Melinde Mayall,10264.0,Spring,220.0,Water Front,0.0,25330.806
+100079,Tech Summit,Rafaelita Shovell,18152.0,Fall,284.0,Water Front,0.0,27526.457
+100080,Food Tour,Tandi Sauvage,2758.0,Fall,236.0,UW Quad,0.0,13764.408
+100081,Food Tour,Giacobo Fidele,11278.0,Summer,84.0,Water Front,1.0,47080.961
+100082,Food Tour,Octavia Bamborough,14748.0,Fall,135.0,Lumen Field,1.0,42020.377
+100083,Food Tour,Kenn Ornells,13550.0,Summer,258.0,T-Mobile Park,,41696.625
+100084,Tech Summit,Olag Munehay,15428.0,Spring,141.0,Lumen Field,0.0,15338.638
+100085,Concert,Kesley Kop,3209.0,Winter,396.0,Water Front,0.0,37649.099
+100086,Farmers Market,Elfrida Newman,7661.0,Spring,386.0,T-Mobile Park,0.0,22557.916
+100087,Festival,Fletcher McDermot,19270.0,Spring,186.0,Lumen Field,0.0,30994.968
+100088,Parade,Henrieta Phipps,11453.0,Summer,108.0,T-Mobile Park,1.0,36713.27
+100089,Stand-Up,Steffie Attew,11392.0,Summer,38.0,UW Quad,1.0,46140.003
+100090,Farmers Market,Gerty Scopes,16794.0,Winter,327.0,UW Quad,0.0,47943.217
+100091,Farmers Market,Lora Creswell,10214.0,Spring,149.0,UW Quad,1.0,6497.804
+100092,Food Tour,Lucinda Drakers,16275.0,Summer,300.0,Water Front,0.0,18471.945
+100093,Farmers Market,Charlotta Ewestace,9707.0,Spring,103.0,Seattle City Centre,1.0,3845.932
+100094,Farmers Market,Imelda Solway,2594.0,Winter,174.0,UW Quad,1.0,1737.595
+100095,Concert,Isaac Orpwood,3847.0,Winter,278.0,T-Mobile Park,0.0,43064.258
+100096,Tech Summit,Hildagard Akers,10847.0,,230.0,Climate Pledge Arena,0.0,33074.31
+100097,Concert,,10685.0,Fall,85.0,Climate Pledge Arena,0.0,49471.528
+100098,Stand-Up,Guthrie MacLucais,4577.0,Fall,146.0,Seattle City Centre,1.0,48364.557
+100099,Parade,Guthrie Sorensen,8574.0,Fall,328.0,Lumen Field,0.0,48799.25
+100100,Festival,Martynne Scallon,16557.0,Summer,37.0,Water Front,0.0,38409.53
+100101,Festival,Duky Feldmesser,8469.0,Spring,71.0,Water Front,0.0,44421.552
+100102,Festival,Page Gormally,9853.0,Winter,159.0,Lumen Field,,22602.315
+100103,Tech Summit,Hoebart Rudolf,18856.0,Spring,119.0,T-Mobile Park,0.0,35739.326
+100104,Food Tour,Ilyse Burkin,465.0,Summer,236.0,T-Mobile Park,,35991.28
+100105,Concert,Talya Viney,6250.0,Winter,311.0,T-Mobile Park,0.0,40402.397
+100106,Concert,,2696.0,,298.0,Climate Pledge Arena,1.0,33902.817
+100107,Stand-Up,,6865.0,Fall,106.0,Seattle City Centre,0.0,45345.773
+100108,Festival,Kermit Pizzey,2571.0,Summer,398.0,Water Front,0.0,9662.514
+100109,Tech Summit,Norri Sired,4176.0,Winter,186.0,T-Mobile Park,0.0,46109.053
+100110,Farmers Market,Carey Maudling,4032.0,Fall,229.0,UW Quad,1.0,22201.512
+100111,Tech Summit,Danette Dehn,18511.0,Summer,357.0,Lumen Field,1.0,41672.381
+100112,Festival,Zsa zsa Mollison,3253.0,Spring,77.0,T-Mobile Park,1.0,41469.783
+100113,Tech Summit,Eimile Hedderly,15064.0,Summer,257.0,T-Mobile Park,0.0,4952.155
+100114,Festival,Kameko Lambkin,10168.0,Summer,361.0,UW Quad,1.0,14609.002
+100115,Concert,Muire Brettel,10603.0,,368.0,Climate Pledge Arena,1.0,40146.567
+100116,Concert,Chanda McGeneay,16536.0,Spring,364.0,T-Mobile Park,0.0,38351.498
+100117,Tech Summit,Dacey Skeene,15653.0,Winter,194.0,Lumen Field,0.0,21800.121
+100118,Food Tour,Layton Pachta,2604.0,Winter,391.0,UW Quad,0.0,13678.303
+100119,Farmers Market,Thom Seager,10440.0,Summer,262.0,T-Mobile Park,1.0,34713.178
+100120,Tech Summit,Ardenia O Kielt,5060.0,Fall,46.0,T-Mobile Park,0.0,48403.881
+100121,Tech Summit,Lauralee Cumine,15743.0,Winter,197.0,Seattle City Centre,1.0,48701.837
+100122,Stand-Up,Tadeo Eggleston,5374.0,Winter,20.0,Climate Pledge Arena,1.0,30078.409
+100123,Concert,Cherish Marvel,19552.0,Summer,124.0,T-Mobile Park,0.0,26009.727
+100124,Tech Summit,Jarred Lomansey,3654.0,Fall,,Climate Pledge Arena,1.0,39495.175
+100125,Stand-Up,Sybyl Rosenboim,827.0,,37.0,Climate Pledge Arena,1.0,17142.195
+100126,Concert,Alberta Lomansey,8859.0,Summer,292.0,Climate Pledge Arena,1.0,17868.603
+100127,Concert,Yolanthe Salatino,7620.0,Winter,392.0,UW Quad,0.0,4315.4
+100128,Farmers Market,Marta Antonomolii,576.0,Winter,208.0,Lumen Field,1.0,11508.014
+100129,Parade,Caitrin Sexton,5202.0,Summer,328.0,T-Mobile Park,1.0,17305.6
+100130,Festival,Dorelia Harm,15176.0,Fall,86.0,Water Front,0.0,35103.682
+100131,Farmers Market,Rowena Meys,,Spring,74.0,T-Mobile Park,1.0,17084.863
+100132,Farmers Market,Nester Wellesley,7333.0,Winter,330.0,Seattle City Centre,1.0,10323.201
+100133,Festival,Pat Wolfers,16169.0,Spring,181.0,UW Quad,1.0,13274.776
+100134,Farmers Market,Jeremias Dunphie,1786.0,Spring,346.0,T-Mobile Park,0.0,30765.919
+100135,Festival,Talbot Bransby,763.0,Spring,400.0,UW Quad,0.0,33464.173
+100136,Festival,Vivyan Pittoli,7489.0,Winter,24.0,UW Quad,0.0,21201.065
+100137,Food Tour,Hadlee Welfare,5938.0,Spring,111.0,Lumen Field,1.0,41659.688
+100138,Parade,Rycca Bredbury,3600.0,Summer,71.0,Seattle City Centre,0.0,13360.146
+100139,Festival,Tina Turney,2150.0,Fall,58.0,UW Quad,0.0,43386.795
+100140,Concert,Diana Clemenceau,18901.0,Fall,138.0,UW Quad,1.0,6768.282
+100141,Concert,Ruthi Flipek,,Summer,159.0,Seattle City Centre,0.0,24533.177
+100142,Festival,Nicky Jelf,4188.0,Spring,258.0,Seattle City Centre,1.0,45908.701
+100143,Parade,Sarita Diver,8782.0,Winter,73.0,UW Quad,1.0,43856.564
+100144,Parade,,16233.0,Winter,47.0,Seattle City Centre,1.0,24820.316
+100145,Farmers Market,Dinnie Keeler,7492.0,,40.0,Water Front,0.0,41828.88
+100146,Parade,Dunc Le Clercq,16866.0,Winter,399.0,UW Quad,0.0,2011.675
+100147,Parade,Inger Paladino,6035.0,Summer,60.0,Climate Pledge Arena,0.0,26784.942
+100148,Concert,Sloane Sollitt,19896.0,Summer,83.0,Lumen Field,1.0,14561.552
+100149,Stand-Up,,479.0,Spring,383.0,Lumen Field,1.0,44450.48
+100150,Parade,Melba Gedney,408.0,Summer,200.0,UW Quad,1.0,46238.015
+100151,Stand-Up,Greer Juorio,14777.0,Winter,136.0,Climate Pledge Arena,0.0,2316.904
+100152,Stand-Up,Forest Griswood,15536.0,Winter,48.0,Climate Pledge Arena,0.0,32435.447
+100153,Festival,Orelle Rodder,2300.0,Summer,266.0,Lumen Field,1.0,24367.021
+100154,Tech Summit,Waiter Dodridge,2354.0,Winter,,Seattle City Centre,1.0,6630.602
+100155,Tech Summit,Corney Rajchert,15779.0,Winter,41.0,Seattle City Centre,0.0,26358.97
+100156,Concert,Jeanelle Frantsev,9281.0,Summer,251.0,Climate Pledge Arena,0.0,47069.244
+100157,Food Tour,Taffy Boulton,14887.0,Fall,84.0,Lumen Field,0.0,23646.833
+100158,Stand-Up,Dugald Manterfield,5832.0,Fall,298.0,Seattle City Centre,1.0,4542.464
+100159,Farmers Market,,16722.0,,200.0,Water Front,1.0,47507.818
+100160,Stand-Up,Pearle Dorsey,11954.0,Fall,168.0,Lumen Field,1.0,18580.935
+100161,Stand-Up,Gaston Koop,12635.0,Summer,332.0,Climate Pledge Arena,1.0,16439.903
+100162,Parade,Elizabet Gulvin,4146.0,Fall,195.0,Lumen Field,1.0,26511.871
+100163,Food Tour,Orelie Stoving,13725.0,Spring,220.0,T-Mobile Park,0.0,31102.533
+100164,Farmers Market,Blaire Feldhuhn,6680.0,Fall,299.0,Water Front,0.0,25667.752
+100165,Parade,Rebekah Hollingby,18682.0,Fall,,Lumen Field,0.0,12683.267
+100166,Festival,Windy Thornborrow,1463.0,Spring,118.0,Climate Pledge Arena,0.0,34445.246
+100167,Food Tour,Sarine Marin,6048.0,Spring,249.0,Climate Pledge Arena,0.0,38923.263
+100168,Farmers Market,Karlotte MacNeilley,2959.0,Winter,318.0,Lumen Field,1.0,35306.458
+100169,Festival,Candice Appleyard,13344.0,Fall,35.0,Lumen Field,1.0,10455.38
+100170,Parade,Hiram Rickcord,19724.0,Fall,209.0,Water Front,0.0,13138.838
+100171,Farmers Market,,13033.0,Winter,375.0,Seattle City Centre,1.0,41944.57
+100172,Concert,Rory Papps,1401.0,Fall,277.0,Lumen Field,1.0,41689.311
+100173,Festival,Brice Damiata,17241.0,Summer,294.0,T-Mobile Park,0.0,7563.264
+100174,Food Tour,Rafferty Lytle,6612.0,Summer,392.0,T-Mobile Park,,25472.7
+100175,Concert,Aubert Mazdon,17199.0,Spring,171.0,UW Quad,0.0,26487.466
+100176,Festival,Hetti Frude,8528.0,Fall,182.0,Climate Pledge Arena,1.0,36476.836
+100177,Parade,Debora Hickford,17426.0,Spring,72.0,Lumen Field,0.0,13291.9
+100178,Farmers Market,Georgiana Winspar,5245.0,Winter,116.0,Lumen Field,0.0,21784.417
+100179,Food Tour,Richmond Sallier,12963.0,Fall,246.0,UW Quad,0.0,44219.088
+100180,Stand-Up,Abie Stother,6346.0,Summer,337.0,Seattle City Centre,1.0,14735.056
+100181,Farmers Market,Jaine Eborall,10508.0,Spring,175.0,UW Quad,1.0,9884.484
+100182,Concert,,8016.0,Spring,99.0,Lumen Field,1.0,2285.614
+100183,Farmers Market,Coriss Fittis,9008.0,Winter,85.0,T-Mobile Park,0.0,16483.603
+100184,Festival,Slade Frankum,11369.0,Winter,104.0,Lumen Field,0.0,31707.923
+100185,Farmers Market,Katleen Rany,16006.0,Winter,80.0,Seattle City Centre,1.0,2539.878
+100186,Parade,Briney Leyland,9562.0,Spring,337.0,Climate Pledge Arena,0.0,48786.502
+100187,Tech Summit,Kev Secretan,11509.0,Fall,347.0,Water Front,1.0,8288.953
+100188,Concert,Kirby Boom,10629.0,Summer,207.0,Seattle City Centre,0.0,34908.593
+100189,Food Tour,Kirsteni Southwick,2304.0,Spring,37.0,Climate Pledge Arena,0.0,1749.469
+100190,Farmers Market,Mae Monckman,16578.0,Summer,260.0,Seattle City Centre,0.0,29709.773
+100191,Concert,My Francecione,17415.0,Summer,389.0,Lumen Field,0.0,38245.292
+100192,Festival,Weber Sugarman,697.0,Spring,153.0,UW Quad,0.0,33181.228
+100193,Festival,Chrissie Rozsa,16208.0,Fall,245.0,T-Mobile Park,0.0,21300.843
+100194,Food Tour,Nannie Rivalland,12685.0,Fall,222.0,Seattle City Centre,1.0,14704.377
+100195,Parade,Alanah Durrington,18214.0,Winter,24.0,Water Front,1.0,9745.515
+100196,Parade,Fabio Brosenius,5400.0,Summer,389.0,Water Front,0.0,18992.264
+100197,Festival,,5561.0,Summer,348.0,Climate Pledge Arena,1.0,16636.975
+100198,Concert,Noll Joffe,6653.0,Summer,388.0,Water Front,1.0,20555.57
+100199,Festival,Vic Binstead,14956.0,Spring,398.0,T-Mobile Park,1.0,2887.767
+100200,Tech Summit,Sidonia Easterby,19066.0,,352.0,Seattle City Centre,0.0,39179.179
+100201,Parade,Nickolai Richarz,15537.0,Spring,155.0,T-Mobile Park,1.0,36068.409
+100202,Food Tour,Erie Frizell,14981.0,Fall,71.0,Seattle City Centre,0.0,45979.599
+100203,Stand-Up,Xenos Stemp,16441.0,Winter,247.0,Lumen Field,,37043.917
+100204,Festival,Lonnie Stichall,12646.0,Summer,252.0,Water Front,1.0,8683.665
+100205,Festival,,15249.0,Spring,51.0,Seattle City Centre,0.0,28994.539
+100206,Tech Summit,Nilson Rougier,9633.0,Spring,277.0,Lumen Field,0.0,5604.722
+100207,Stand-Up,Dan Pratley,9274.0,Winter,364.0,Climate Pledge Arena,1.0,13968.632
+100208,Tech Summit,Ermina Startin,12345.0,Fall,245.0,UW Quad,,13843.035
+100209,Stand-Up,Isabella Blenkinsopp,8566.0,Fall,286.0,UW Quad,1.0,16048.361
+100210,Tech Summit,,15650.0,Spring,88.0,T-Mobile Park,1.0,33069.764
+100211,Farmers Market,Estrellita Andrews,5840.0,,120.0,Lumen Field,0.0,21294.077
+100212,Farmers Market,,6174.0,Summer,392.0,Lumen Field,,18966.171
+100213,Farmers Market,Rodrique Fordyce,8946.0,Spring,110.0,Climate Pledge Arena,0.0,42630.203
+100214,Parade,Bob Hanna,,Fall,350.0,UW Quad,1.0,40343.364
+100215,Stand-Up,Brandon Aldwich,2071.0,Fall,212.0,Lumen Field,1.0,39401.577
+100216,Farmers Market,Alexa Careswell,778.0,Summer,86.0,Seattle City Centre,0.0,30068.459
+100217,Tech Summit,Javier Vautrey,9898.0,Fall,55.0,UW Quad,0.0,27322.709
+100218,Food Tour,Chrotoem Frentz,5092.0,Spring,243.0,Climate Pledge Arena,0.0,17193.677
+100219,Parade,Corey McKall,12305.0,Spring,353.0,Lumen Field,1.0,13362.565
+100220,Food Tour,Franzen Dunne,19089.0,Fall,393.0,Seattle City Centre,1.0,7367.667
+100221,Tech Summit,Giraud Scudder,11389.0,Winter,60.0,Climate Pledge Arena,0.0,18200.665
+100222,Farmers Market,Carmela Wehner,18258.0,Winter,310.0,T-Mobile Park,1.0,21253.383
+100223,Tech Summit,Kirby Melia,16159.0,Winter,303.0,T-Mobile Park,0.0,3311.356
+100224,Tech Summit,Jordan Given,17740.0,Fall,339.0,Seattle City Centre,1.0,39455.519
+100225,Farmers Market,Ailey Bacup,5353.0,Winter,229.0,Lumen Field,0.0,12156.308
+100226,Farmers Market,Gordy Cullotey,6122.0,Fall,179.0,Climate Pledge Arena,0.0,18681.527
+100227,Food Tour,George Strelitzer,6761.0,Spring,381.0,T-Mobile Park,1.0,2698.089
+100228,Concert,Audrie Colbeck,12130.0,Spring,193.0,UW Quad,1.0,38008.425
+100229,Tech Summit,Horten Sinnock,15777.0,Summer,148.0,Water Front,0.0,32446.555
+100230,Stand-Up,Dilly Rivlin,10439.0,Fall,96.0,UW Quad,1.0,33430.611
+100231,Concert,Winona Okker,10141.0,Winter,195.0,Lumen Field,1.0,43104.993
+100232,Parade,Lek Durtnal,8595.0,Summer,136.0,UW Quad,1.0,42642.78
+100233,Tech Summit,Reinhold Cossins,18959.0,Fall,172.0,Seattle City Centre,0.0,25694.14
+100234,Concert,Henrie Cozby,6626.0,Spring,138.0,Water Front,1.0,4180.508
+100235,Tech Summit,Evelin Bate,17078.0,Spring,148.0,Seattle City Centre,0.0,26877.5
+100236,Parade,Amara Goddard,6129.0,Winter,235.0,Climate Pledge Arena,0.0,31904.022
+100237,Parade,Immanuel Spinozzi,3514.0,Spring,282.0,UW Quad,1.0,44795.099
+100238,Stand-Up,Gawen Tomney,18544.0,Fall,57.0,Lumen Field,,21577.982
+100239,Stand-Up,Chance Coleby,8270.0,Spring,92.0,Water Front,0.0,10260.705
+100240,Farmers Market,Raimundo Birtonshaw,3484.0,Winter,220.0,Lumen Field,0.0,16503.59
+100241,Concert,Yolanthe Beumant,5450.0,Spring,168.0,Lumen Field,0.0,28239.368
+100242,Stand-Up,Jacklyn Pyatt,7297.0,Winter,60.0,Seattle City Centre,0.0,28235.064
+100243,Festival,Fina Lumsdale,7462.0,Spring,84.0,UW Quad,0.0,23643.839
+100244,Festival,Isidor Duignan,18150.0,Spring,396.0,Seattle City Centre,0.0,39766.352
+100245,Farmers Market,Winifield Bodd,10388.0,Winter,370.0,Water Front,0.0,11271.588
+100246,Farmers Market,Anallese D Ambrosio,8468.0,Winter,146.0,T-Mobile Park,0.0,8370.217
+100247,Festival,Zsazsa McLanaghan,8509.0,Spring,219.0,Water Front,,2646.81
+100248,Concert,,11066.0,Winter,375.0,UW Quad,0.0,32192.655
+100249,Parade,Emerson Challiss,11877.0,Spring,48.0,Lumen Field,0.0,20922.295
+100250,Tech Summit,Anett Reubel,14608.0,Fall,218.0,Seattle City Centre,0.0,9934.926
+100251,Stand-Up,Evelyn Rablan,16392.0,Spring,120.0,Water Front,1.0,22810.341
+100252,Farmers Market,Lane Pevsner,15935.0,Fall,366.0,T-Mobile Park,1.0,47748.393
+100253,Tech Summit,Ivan Henstridge,15503.0,Winter,173.0,Water Front,0.0,44779.401
+100254,Parade,Bev Wint,12999.0,Winter,387.0,UW Quad,1.0,17319.915
+100255,Stand-Up,Vivie Ashbridge,13923.0,Spring,39.0,Seattle City Centre,0.0,31265.712
+100256,Parade,Roldan Byard,7107.0,Summer,73.0,Climate Pledge Arena,1.0,28615.53
+100257,Stand-Up,Hermon Sitch,12770.0,Spring,184.0,Seattle City Centre,0.0,23600.321
+100258,Festival,Law Semrad,6246.0,Fall,81.0,Climate Pledge Arena,1.0,3180.705
+100259,Festival,Waylen Marron,3999.0,Summer,128.0,UW Quad,1.0,34862.942
+100260,Food Tour,Alfreda Caghy,16378.0,Spring,264.0,UW Quad,,28931.761
+100261,Concert,Lara Denty,8810.0,Fall,236.0,Lumen Field,1.0,32604.588
+100262,Tech Summit,Matty Panniers,2642.0,Summer,164.0,Water Front,1.0,42064.142
+100263,Farmers Market,Ximenez Loren,3527.0,,,T-Mobile Park,,24647.296
+100264,Tech Summit,Wenona Gallimore,3307.0,Summer,120.0,Lumen Field,0.0,37638.491
+100265,Festival,Arlina Doche,11007.0,Spring,370.0,T-Mobile Park,0.0,42043.597
+100266,Concert,Cleopatra Ioselevich,13035.0,Summer,304.0,Lumen Field,0.0,44132.49
+100267,Parade,Gwyneth Caton,1142.0,Summer,180.0,Climate Pledge Arena,0.0,30427.148
+100268,Stand-Up,Uri Kenyam,13806.0,Fall,165.0,T-Mobile Park,1.0,33834.552
+100269,Food Tour,Amalie Gaythwaite,4159.0,Spring,306.0,T-Mobile Park,0.0,23154.222
+100270,Parade,Nat Allison,14429.0,Fall,107.0,Climate Pledge Arena,0.0,42516.702
+100271,Food Tour,Dalia Napoli,3637.0,Spring,276.0,Lumen Field,1.0,17605.781
+100272,Stand-Up,Mia Mathwin,8170.0,Fall,152.0,Climate Pledge Arena,0.0,14058.463
+100273,Stand-Up,Moria Dockrey,14262.0,Spring,185.0,Climate Pledge Arena,0.0,48532.149
+100274,Food Tour,Jillian Glassford,9107.0,,221.0,Climate Pledge Arena,1.0,34547.918
+100275,Food Tour,Lisha Frankema,1508.0,Summer,254.0,Climate Pledge Arena,1.0,32071.939
+100276,Food Tour,Chelsey Alvaro,15079.0,Fall,153.0,UW Quad,1.0,37776.538
+100277,Stand-Up,Gregoire Fiennes,4372.0,Winter,72.0,Seattle City Centre,1.0,25186.254
+100278,Festival,Erick Lanphere,682.0,Winter,335.0,Water Front,1.0,37547.161
+100279,Stand-Up,Terrijo McGavigan,608.0,Summer,301.0,UW Quad,0.0,25417.25
+100280,Parade,,16183.0,Summer,30.0,Lumen Field,1.0,10372.859
+100281,Parade,Natalya Glasman,1093.0,Summer,160.0,T-Mobile Park,1.0,29465.765
+100282,Parade,Nanny Ortet,11901.0,Winter,347.0,Water Front,1.0,48077.625
+100283,Food Tour,Anita Longworthy,4620.0,Winter,233.0,T-Mobile Park,1.0,42569.602
+100284,Tech Summit,Drud Morhall,14015.0,Spring,363.0,Water Front,0.0,31802.014
+100285,Parade,Catha Merkel,10531.0,Spring,163.0,Climate Pledge Arena,0.0,32956.05
+100286,Stand-Up,Hewe Sarginson,17416.0,Summer,240.0,Water Front,0.0,35001.508
+100287,Stand-Up,Deanne Leer,4201.0,Summer,316.0,UW Quad,1.0,6772.486
+100288,Farmers Market,Yoko Casero,9741.0,Spring,159.0,Lumen Field,0.0,27924.475
+100289,Concert,,14400.0,Summer,232.0,T-Mobile Park,1.0,13284.379
+100290,Stand-Up,Gabie Zottoli,18266.0,Winter,85.0,Lumen Field,0.0,47694.848
+100291,Stand-Up,Doll Wakes,14012.0,Summer,393.0,Climate Pledge Arena,,27321.215
+100292,Farmers Market,Dacie Kestin,18844.0,Spring,205.0,T-Mobile Park,0.0,49818.452
+100293,Concert,Farrand Gauler,2727.0,Summer,124.0,UW Quad,1.0,37651.547
+100294,Tech Summit,Estrella Grane,19809.0,Spring,357.0,Water Front,0.0,27638.64
+100295,Parade,,1808.0,Summer,85.0,Lumen Field,1.0,16577.606
+100296,Concert,Evelin Dowthwaite,7715.0,Summer,314.0,Water Front,1.0,30510.465
+100297,Festival,Christoper Lawful,15527.0,Winter,388.0,Water Front,1.0,23099.67
+100298,Tech Summit,Fidelity Litster,9661.0,Spring,227.0,Climate Pledge Arena,1.0,25162.526
+100299,Food Tour,Babb Pitchers,11866.0,Summer,180.0,Lumen Field,0.0,22823.924
+100300,Stand-Up,Eric Woolhouse,9980.0,Spring,192.0,UW Quad,0.0,25029.696
+100301,Concert,Dag Zealander,6294.0,Fall,25.0,T-Mobile Park,0.0,28611.195
+100302,Farmers Market,Birdie Danilyak,,Spring,367.0,Lumen Field,1.0,37696.52
+100303,Stand-Up,Viki Di Giorgio,6994.0,Spring,54.0,Climate Pledge Arena,1.0,16075.942
+100304,Tech Summit,,14758.0,Winter,25.0,UW Quad,0.0,45663.048
+100305,Food Tour,Aldon Cottell,18679.0,Spring,49.0,Lumen Field,0.0,7219.135
+100306,Farmers Market,Ruggiero Tofanini,17910.0,Summer,217.0,Lumen Field,1.0,49537.801
+100307,Parade,Axel Renackowna,10031.0,Winter,311.0,Water Front,1.0,18477.792
+100308,Stand-Up,Arch Nellies,7075.0,Winter,299.0,Water Front,0.0,42954.787
+100309,Stand-Up,Friedrick Biddlestone,17603.0,Spring,165.0,Water Front,1.0,21503.157
+100310,Tech Summit,Jasun McKernon,18027.0,Fall,226.0,Water Front,0.0,27529.581
+100311,Tech Summit,Mikel Bleackly,13749.0,Summer,255.0,Climate Pledge Arena,0.0,36005.238
+100312,Farmers Market,Parnell Spaxman,3902.0,Winter,234.0,Climate Pledge Arena,1.0,23870.051
+100313,Parade,Shanda Fairall,18874.0,Winter,79.0,UW Quad,1.0,4151.029
+100314,Stand-Up,Helaina Badman,10152.0,Fall,260.0,Water Front,,7894.781
+100315,Food Tour,,15393.0,Winter,278.0,UW Quad,0.0,10256.361
+100316,Farmers Market,Bastien Guerre,2449.0,Spring,130.0,Seattle City Centre,,15061.106
+100317,Parade,Wyatan Illes,14479.0,Spring,188.0,UW Quad,1.0,36616.959
+100318,Food Tour,Linnie Joplin,7089.0,Spring,287.0,Seattle City Centre,0.0,5701.031
+100319,Farmers Market,Iago Tommasi,807.0,Summer,237.0,T-Mobile Park,0.0,28442.508
+100320,Parade,Raffaello Manston,18401.0,Winter,342.0,T-Mobile Park,0.0,2484.706
+100321,Tech Summit,Marlyn Dregan,6706.0,Fall,284.0,Lumen Field,0.0,3514.954
+100322,Farmers Market,Celie Blezard,4439.0,Spring,259.0,Lumen Field,1.0,48559.97
+100323,Parade,Bartie Spritt,5835.0,Spring,115.0,T-Mobile Park,0.0,8535.034
+100324,Farmers Market,Vincenty Caughey,8008.0,Fall,170.0,T-Mobile Park,1.0,47272.979
+100325,Food Tour,Lorens Dungate,1624.0,Spring,227.0,Climate Pledge Arena,,23970.023
+100326,Food Tour,Bil Saich,5019.0,Spring,247.0,Water Front,1.0,13732.173
+100327,Stand-Up,Frankie Shickle,8555.0,Spring,37.0,UW Quad,,19619.617
+100328,Food Tour,Costanza Benyan,6047.0,Winter,75.0,Climate Pledge Arena,0.0,16462.449
+100329,Tech Summit,Beryl Seymer,13615.0,Fall,84.0,T-Mobile Park,0.0,11661.9
+100330,Concert,Niel Grigolon,13191.0,Winter,316.0,Water Front,1.0,21965.227
+100331,Tech Summit,Travis Courcey,13256.0,Summer,124.0,UW Quad,0.0,36877.294
+100332,Farmers Market,Lanette Beckett,9120.0,Fall,217.0,UW Quad,0.0,1792.263
+100333,Festival,Doloritas Earthfield,13648.0,Spring,21.0,Seattle City Centre,1.0,6752.766
+100334,Concert,Birdie Records,14905.0,Winter,170.0,Water Front,1.0,14534.6
+100335,Food Tour,Nessa Maudett,13234.0,Winter,270.0,Seattle City Centre,0.0,16628.637
+100336,Stand-Up,Arny Kitman,3767.0,Spring,303.0,Climate Pledge Arena,1.0,36293.87
+100337,Parade,Arlene Lammertz,2100.0,Spring,285.0,T-Mobile Park,1.0,25507.082
+100338,Food Tour,Candra Petrussi,3044.0,Spring,161.0,T-Mobile Park,0.0,14111.97
+100339,Food Tour,Amelia Mathwen,674.0,Winter,281.0,Climate Pledge Arena,1.0,35822.314
+100340,Farmers Market,Codee Jerrand,16494.0,Spring,37.0,Seattle City Centre,1.0,31068.803
+100341,Tech Summit,Hertha Pharro,5129.0,Spring,130.0,Water Front,0.0,25989.255
+100342,Tech Summit,Hephzibah Flippini,15554.0,Spring,250.0,Climate Pledge Arena,0.0,5138.676
+100343,Parade,Ulrike Pionter,1776.0,Summer,76.0,Climate Pledge Arena,0.0,8549.444
+100344,Concert,Charlot Scottrell,5756.0,Spring,24.0,Climate Pledge Arena,1.0,43909.099
+100345,Concert,,13683.0,Winter,162.0,UW Quad,0.0,22840.538
+100346,Food Tour,Odell Pover,3037.0,Fall,36.0,Seattle City Centre,0.0,47885.54
+100347,Farmers Market,Nessa Janc,2545.0,Summer,366.0,Seattle City Centre,0.0,27126.406
+100348,Concert,Dale Feuell,,Winter,237.0,T-Mobile Park,0.0,14945.027
+100349,Festival,Yancey Woolliams,4117.0,Summer,290.0,Seattle City Centre,0.0,6507.429
+100350,Farmers Market,,7244.0,Spring,,T-Mobile Park,1.0,3076.038
+100351,Food Tour,Ambrose Lingwood,11690.0,Spring,229.0,Water Front,1.0,33352.133
+100352,Farmers Market,Ninette Southwell,8768.0,Spring,99.0,Climate Pledge Arena,1.0,47592.719
+100353,Festival,Doy Whymark,11129.0,Fall,184.0,Climate Pledge Arena,1.0,12599.316
+100354,Farmers Market,Francene Hobson,15266.0,Winter,27.0,Lumen Field,1.0,46670.838
+100355,Parade,Hurley Haughan,18109.0,Winter,34.0,Lumen Field,1.0,32374.587
+100356,Stand-Up,,9839.0,Summer,71.0,UW Quad,,27294.595
+100357,Festival,Melicent Raiment,7175.0,Fall,130.0,Climate Pledge Arena,1.0,4368.847
+100358,Food Tour,Chevy Perfitt,9458.0,Fall,95.0,UW Quad,1.0,43123.631
+100359,Farmers Market,Ram Ricard,3669.0,Summer,344.0,Lumen Field,1.0,48958.618
+100360,Concert,Rikki Loweth,,Fall,45.0,Climate Pledge Arena,0.0,8950.32
+100361,Farmers Market,Carolann Sleaford,16996.0,Summer,86.0,Seattle City Centre,0.0,33143.184
+100362,Concert,Marcellina Grubbe,6695.0,Winter,213.0,Seattle City Centre,0.0,30645.336
+100363,Stand-Up,Jessi Pistol,19166.0,Winter,331.0,Climate Pledge Arena,0.0,16155.874
+100364,Stand-Up,Karon Ickovicz,6672.0,Spring,264.0,Lumen Field,1.0,11804.823
+100365,Tech Summit,Marabel Gimeno,19208.0,Spring,191.0,Seattle City Centre,,12220.778
+100366,Farmers Market,Emery Wilder,8307.0,Fall,295.0,T-Mobile Park,1.0,20487.306
+100367,Concert,Tarrah Dono,8342.0,Winter,170.0,UW Quad,0.0,42069.604
+100368,Stand-Up,Tamqrah Havoc,16759.0,Fall,225.0,Water Front,1.0,38313.2
+100369,Tech Summit,Averil Selley,18706.0,Summer,263.0,Seattle City Centre,1.0,14620.875
+100370,Food Tour,Lesley Rentoll,7904.0,Winter,102.0,T-Mobile Park,1.0,36697.729
+100371,Food Tour,Tuck McGauhy,,,212.0,Water Front,1.0,41189.539
+100372,Stand-Up,Clifford MacFadyen,11110.0,Winter,61.0,T-Mobile Park,1.0,46944.012
+100373,Concert,Brandie Blackmore,9808.0,Spring,212.0,Climate Pledge Arena,0.0,23620.486
+100374,Stand-Up,,1011.0,,336.0,Lumen Field,1.0,16924.541
+100375,Stand-Up,Kerwin Banasevich,12300.0,Summer,258.0,Seattle City Centre,1.0,18596.246
+100376,Farmers Market,Brennan Fewtrell,14869.0,Fall,96.0,T-Mobile Park,0.0,36252.488
+100377,Festival,Libbi Sakins,4754.0,Summer,35.0,Water Front,,48709.435
+100378,Farmers Market,Allie Feldmark,6500.0,Winter,166.0,Climate Pledge Arena,0.0,17159.096
+100379,Stand-Up,Nettie Tarbett,5350.0,Summer,193.0,Lumen Field,0.0,8548.378
+100380,Stand-Up,Glad Castanyer,10548.0,Spring,387.0,T-Mobile Park,1.0,29556.37
+100381,Farmers Market,Terencio Dingwall,19882.0,Spring,253.0,UW Quad,0.0,4197.613
+100382,Food Tour,Colby Handling,7353.0,Winter,165.0,T-Mobile Park,1.0,36169.643
+100383,Tech Summit,Linet Audley,18857.0,Summer,77.0,Lumen Field,0.0,8167.318
+100384,Festival,,17858.0,Summer,287.0,UW Quad,0.0,38982.721
+100385,Tech Summit,Germain O Malley,18209.0,,,Lumen Field,1.0,12454.868
+100386,Parade,Tuckie Darington,13623.0,Winter,73.0,Water Front,1.0,20815.398
+100387,Farmers Market,Sherri Levermore,5180.0,Summer,384.0,Seattle City Centre,0.0,48786.335
+100388,Tech Summit,Wilhelm Howie,14351.0,Spring,109.0,Water Front,0.0,8470.163
+100389,Festival,Maynard Hellen,14749.0,Spring,309.0,Lumen Field,0.0,13015.719
+100390,Farmers Market,Kellia Murrells,19971.0,Fall,31.0,Climate Pledge Arena,,38624.728
+100391,Concert,Merrily Ellwand,8608.0,Winter,243.0,T-Mobile Park,0.0,45649.357
+100392,Concert,Dian Weippert,7915.0,Winter,364.0,Water Front,0.0,30203.617
+100393,Tech Summit,Christy Avesque,5634.0,,61.0,Climate Pledge Arena,0.0,35695.879
+100394,Stand-Up,Jermaine O Dornan,8789.0,Fall,162.0,Climate Pledge Arena,1.0,6360.879
+100395,Tech Summit,Quentin Mobberley,12573.0,Summer,208.0,T-Mobile Park,0.0,27980.729
+100396,Farmers Market,Neile Sweetsur,19339.0,Summer,386.0,Lumen Field,0.0,39254.794
+100397,Stand-Up,Nonah McKimm,3159.0,Winter,294.0,Lumen Field,1.0,29602.97
+100398,Concert,Ikey Baxill,11107.0,Spring,173.0,Seattle City Centre,1.0,29632.074
+100399,Farmers Market,Alvy Abbiss,9685.0,Winter,234.0,T-Mobile Park,1.0,35851.887
+100400,Festival,Fawn Gladdifh,2307.0,Summer,184.0,Lumen Field,0.0,11258.171
+100401,Stand-Up,Bat Pawelek,10792.0,Summer,162.0,UW Quad,1.0,41717.93
+100402,Festival,Bibbye Dougan,12228.0,Winter,68.0,Climate Pledge Arena,1.0,19934.68
+100403,Farmers Market,Rancell Pevie,11382.0,Fall,69.0,Climate Pledge Arena,0.0,41762.391
+100404,Concert,Ricardo Cruess,990.0,Spring,273.0,Climate Pledge Arena,1.0,4303.649
+100405,Parade,Allianora Grioli,17601.0,Summer,362.0,Seattle City Centre,0.0,40174.569
+100406,Stand-Up,Ingaborg Lilie,8861.0,Summer,356.0,UW Quad,0.0,13373.839
+100407,Tech Summit,Rube Scarce,10726.0,Spring,118.0,Lumen Field,1.0,34542.629
+100408,Concert,Cele Watford,1272.0,Summer,304.0,Seattle City Centre,0.0,15313.463
+100409,Parade,Berri Biggen,12898.0,Fall,276.0,Climate Pledge Arena,1.0,48600.343
+100410,Festival,Yolanthe Leahey,11716.0,Spring,32.0,Climate Pledge Arena,0.0,36601.311
+100411,Parade,Joyous Verity,8647.0,Fall,121.0,Climate Pledge Arena,0.0,39210.698
+100412,Food Tour,Chuck Crassweller,2144.0,Fall,172.0,Lumen Field,0.0,3734.879
+100413,Stand-Up,Jacobo Pierrepont,11219.0,Winter,349.0,UW Quad,0.0,47429.98
+100414,Concert,Sky Kinglake,14952.0,Summer,363.0,Climate Pledge Arena,1.0,19459.754
+100415,Stand-Up,Sashenka Sillito,18902.0,Winter,51.0,Water Front,1.0,49719.111
+100416,Food Tour,Melisandra Piris,13236.0,Spring,,Climate Pledge Arena,1.0,4510.933
+100417,Farmers Market,Tracy Rentcome,12707.0,Winter,265.0,Climate Pledge Arena,1.0,21906.415
+100418,Festival,Wilow Lindenman,11318.0,Winter,363.0,Water Front,1.0,1632.489
+100419,Concert,Erica Cinelli,920.0,Summer,46.0,UW Quad,0.0,13722.485
+100420,Tech Summit,Eleonora Treadaway,6183.0,Spring,175.0,UW Quad,0.0,11290.267
+100421,Concert,Bradly Fitchen,3714.0,Winter,310.0,T-Mobile Park,0.0,1440.137
+100422,Stand-Up,Jamison Kloska,18610.0,Summer,345.0,Seattle City Centre,0.0,36506.026
+100423,Food Tour,Antonia Buckles,13630.0,Fall,148.0,Seattle City Centre,1.0,20249.798
+100424,Food Tour,Natala Gutherson,1842.0,Spring,,UW Quad,0.0,7506.369
+100425,Food Tour,Huntington O Neary,,Winter,158.0,T-Mobile Park,1.0,3111.886
+100426,Concert,Ulrica Shorten,13135.0,Spring,396.0,Seattle City Centre,1.0,13286.113
+100427,Festival,Juline Thackray,19728.0,Fall,377.0,Lumen Field,0.0,22468.257
+100428,Farmers Market,Anatole Phoenix,17287.0,Fall,103.0,Climate Pledge Arena,0.0,31468.928
+100429,Tech Summit,Adriena Doge,19472.0,Fall,360.0,Seattle City Centre,1.0,33040.636
+100430,Festival,Gage Alejandre,14579.0,Summer,41.0,UW Quad,1.0,13409.956
+100431,Stand-Up,,11630.0,Spring,293.0,Climate Pledge Arena,1.0,5981.915
+100432,Concert,Dalis O Kerin,15747.0,Winter,283.0,T-Mobile Park,1.0,10100.454
+100433,Tech Summit,Roobbie Mulliss,6484.0,,57.0,Climate Pledge Arena,1.0,48243.981
+100434,Parade,,12247.0,Fall,386.0,Lumen Field,1.0,14674.297
+100435,Farmers Market,Novelia Defries,10972.0,Summer,387.0,Water Front,0.0,40146.279
+100436,Concert,Tobias Pascho,2271.0,Fall,127.0,Climate Pledge Arena,1.0,48557.189
+100437,Tech Summit,Vivyanne Hatherill,4610.0,Summer,343.0,Lumen Field,1.0,25099.224
+100438,Concert,Beverlie Caldicot,4149.0,Fall,63.0,Lumen Field,0.0,6405.386
+100439,Concert,Asher Staneland,16341.0,Fall,278.0,Water Front,0.0,32658.48
+100440,Tech Summit,Brittney Coast,19170.0,Fall,212.0,Seattle City Centre,1.0,45586.68
+100441,Concert,Joelie Joyce,,Fall,201.0,Seattle City Centre,1.0,26485.556
+100442,Food Tour,,19801.0,Winter,330.0,Water Front,0.0,13323.912
+100443,Farmers Market,Ax Parratt,7047.0,Fall,395.0,T-Mobile Park,1.0,29534.124
+100444,Tech Summit,Annalise MacKaig,12479.0,Winter,,Water Front,0.0,4630.74
+100445,Stand-Up,Hansiain Foyster,19330.0,Summer,232.0,UW Quad,0.0,26642.667
+100446,Farmers Market,Laney Askew,14501.0,Fall,92.0,Climate Pledge Arena,1.0,46723.685
+100447,Parade,Colet Gustus,12257.0,Summer,56.0,T-Mobile Park,1.0,14082.775
+100448,Festival,Andeee Bullers,2952.0,Spring,212.0,Lumen Field,0.0,12988.78
+100449,Farmers Market,Willey Benedicto,12864.0,Spring,64.0,Seattle City Centre,1.0,49478.779
+100450,Parade,Claudell Christaeas,,Summer,315.0,Seattle City Centre,1.0,48315.328
+100451,Tech Summit,Jarad Carrington,5862.0,Spring,302.0,Water Front,0.0,18985.495
+100452,Stand-Up,Erena Rough,14732.0,Spring,260.0,Water Front,0.0,5478.935
+100453,Festival,Franzen Tomczynski,11150.0,Winter,275.0,Seattle City Centre,1.0,39160.725
+100454,Parade,Gae Duncklee,16874.0,,306.0,UW Quad,0.0,33994.457
+100455,Farmers Market,,11827.0,Spring,292.0,Seattle City Centre,0.0,36089.398
+100456,Stand-Up,Kathi Wilstead,18579.0,Winter,306.0,Climate Pledge Arena,0.0,10021.441
+100457,Tech Summit,Dame Nazaret,9918.0,Winter,52.0,T-Mobile Park,1.0,34131.573
+100458,Stand-Up,Aksel Ellicott,4215.0,Spring,67.0,Climate Pledge Arena,1.0,13371.106
+100459,Festival,Brina Spellward,1455.0,Spring,28.0,Lumen Field,1.0,42314.369
+100460,Festival,Vina Gabe,11485.0,Fall,283.0,T-Mobile Park,1.0,38984.89
+100461,Food Tour,Floria Sentance,13190.0,Fall,78.0,Lumen Field,0.0,26362.058
+100462,Stand-Up,Nobie Gellett,3395.0,Fall,226.0,UW Quad,0.0,44536.413
+100463,Farmers Market,,13712.0,Summer,53.0,UW Quad,1.0,16146.518
+100464,Festival,Audi La Vigne,2487.0,Spring,78.0,Lumen Field,0.0,24702.17
+100465,Parade,Antonius Cattellion,2146.0,Winter,90.0,Climate Pledge Arena,1.0,43308.514
+100466,Parade,Reid Birdfield,12013.0,Fall,61.0,Climate Pledge Arena,0.0,25226.947
+100467,Concert,Horton Derrington,4735.0,Spring,378.0,UW Quad,1.0,13917.939
+100468,Parade,Gualterio Slee,11630.0,Winter,43.0,T-Mobile Park,0.0,25260.66
+100469,Tech Summit,Hadlee Kliner,17799.0,Summer,22.0,T-Mobile Park,1.0,1043.117
+100470,Festival,Jeremie Chew,1585.0,Winter,92.0,UW Quad,0.0,31824.619
+100471,Parade,Bathsheba Membry,12078.0,Fall,60.0,UW Quad,1.0,26202.323
+100472,Parade,Ivar Tokell,2352.0,Fall,275.0,Climate Pledge Arena,1.0,6179.362
+100473,Concert,Marjorie Flucks,9359.0,Spring,383.0,Seattle City Centre,0.0,38321.372
+100474,Concert,Edd Kingshott,17219.0,Spring,67.0,T-Mobile Park,1.0,10517.702
+100475,Parade,Manda Belvard,5567.0,Spring,94.0,Lumen Field,0.0,20578.64
+100476,Food Tour,Whitby Burdoun,17706.0,Spring,228.0,Lumen Field,1.0,23257.909
+100477,Concert,Jena Banaszewski,3143.0,Spring,107.0,Lumen Field,1.0,11278.048
+100478,Stand-Up,,9062.0,Spring,235.0,T-Mobile Park,1.0,9943.593
+100479,Festival,Bamby Ladbury,11003.0,Fall,53.0,Seattle City Centre,0.0,39911.1
+100480,Stand-Up,Chrissie Jotcham,2187.0,Fall,214.0,T-Mobile Park,0.0,6534.836
+100481,Food Tour,Josias Larvor,,Spring,,T-Mobile Park,1.0,8389.322
+100482,Tech Summit,Dorice Bingell,3158.0,Fall,168.0,T-Mobile Park,1.0,36509.338
+100483,Farmers Market,Jozef Venners,10176.0,Summer,70.0,Seattle City Centre,0.0,16790.322
+100484,Tech Summit,Dukie Heinreich,13881.0,Winter,162.0,Seattle City Centre,1.0,39558.319
+100485,Festival,Baxter McCane,4924.0,Spring,295.0,Lumen Field,1.0,4202.248
+100486,Parade,Moshe Greensted,10286.0,Spring,208.0,Climate Pledge Arena,1.0,23998.234
+100487,Tech Summit,Wenonah Dreng,8608.0,Summer,389.0,Water Front,1.0,17413.753
+100488,Farmers Market,Joanne Semens,8471.0,Summer,191.0,Seattle City Centre,0.0,4853.571
+100489,Parade,Denny Loache,1748.0,Spring,62.0,Water Front,,32233.676
+100490,Stand-Up,Jocelyn Penning,16882.0,Summer,263.0,Water Front,0.0,1333.059
+100491,Stand-Up,,8006.0,Fall,128.0,Water Front,0.0,4506.787
+100492,Farmers Market,Boigie Cod,19498.0,Spring,139.0,UW Quad,0.0,21018.913
+100493,Food Tour,Susanna Kopps,16485.0,Winter,110.0,Seattle City Centre,0.0,12719.304
+100494,Tech Summit,Jerry Ewbanks,11141.0,Fall,354.0,UW Quad,0.0,43081.341
+100495,Festival,Adair Garvan,15792.0,Winter,143.0,Water Front,,27964.119
+100496,Food Tour,Viviana Fritchley,11494.0,,172.0,Climate Pledge Arena,1.0,42934.507
+100497,Tech Summit,Weider Maso,8789.0,Spring,335.0,T-Mobile Park,1.0,9753.565
+100498,Festival,,19675.0,Summer,160.0,Lumen Field,0.0,39501.834
+100499,Concert,Rora Francillo,5064.0,Spring,88.0,Water Front,0.0,25211.377
+100500,Stand-Up,Mikel Guice,10450.0,Fall,83.0,UW Quad,0.0,29867.977
+100501,Concert,Amalea Westmorland,9887.0,Winter,214.0,UW Quad,0.0,9748.322
+100502,Festival,Sheelah Cloke,12941.0,Spring,89.0,UW Quad,1.0,19537.062
+100503,Stand-Up,Francine Arunowicz,,Summer,264.0,Climate Pledge Arena,0.0,29111.171
+100504,Tech Summit,Friedrich Merill,16340.0,Winter,85.0,Climate Pledge Arena,0.0,9108.712
+100505,Farmers Market,Steffi Rammell,12441.0,Spring,158.0,Water Front,0.0,43716.009
+100506,Festival,Kin MacShane,9093.0,Spring,247.0,T-Mobile Park,0.0,49110.999
+100507,Parade,,12007.0,Spring,118.0,Lumen Field,0.0,43751.603
+100508,Stand-Up,Elle Whitland,4122.0,Summer,131.0,T-Mobile Park,0.0,15806.341
+100509,Festival,Jere Marns,9517.0,Fall,251.0,Water Front,0.0,27647.862
+100510,Concert,Oralle De Bruijn,14627.0,Fall,386.0,UW Quad,0.0,45166.257
+100511,Parade,Florrie Clue,8250.0,Fall,184.0,Seattle City Centre,1.0,13499.569
+100512,Tech Summit,Marnie Tomet,10600.0,Summer,358.0,Seattle City Centre,1.0,16577.975
+100513,Festival,Bogart Fishbourne,19875.0,Winter,21.0,UW Quad,1.0,12142.667
+100514,Stand-Up,Skip Mengo,2936.0,Winter,133.0,Lumen Field,0.0,31095.813
+100515,Tech Summit,,8508.0,Summer,149.0,Water Front,0.0,41999.693
+100516,Concert,Gay Padden,10776.0,Summer,194.0,Climate Pledge Arena,1.0,41140.014
+100517,Festival,Amandy Adelman,6615.0,Fall,283.0,Water Front,0.0,3049.822
+100518,Concert,Kiersten Driffe,956.0,Spring,76.0,Seattle City Centre,0.0,33473.337
+100519,Parade,Morgen Batchan,12086.0,Winter,264.0,T-Mobile Park,0.0,14514.879
+100520,Food Tour,Ed Monckman,17116.0,Spring,128.0,T-Mobile Park,0.0,20789.127
+100521,Food Tour,Ame Van der Hoeven,19937.0,Spring,,Seattle City Centre,1.0,11138.685
+100522,Concert,Demetris Galle,8222.0,Fall,200.0,Lumen Field,0.0,41422.247
+100523,Festival,Karissa Stanman,9151.0,Summer,174.0,T-Mobile Park,0.0,24724.822
+100524,Stand-Up,Mignon Omand,12341.0,Summer,104.0,Water Front,0.0,47786.261
+100525,Parade,Jermaine Lyokhin,19278.0,Fall,197.0,T-Mobile Park,,40052.306
+100526,Tech Summit,Jere Tayt,13986.0,Spring,228.0,Water Front,1.0,19365.713
+100527,Festival,Suki Alliberton,2466.0,Spring,264.0,UW Quad,0.0,15265.699
+100528,Festival,Gunner Colchett,,Winter,337.0,Seattle City Centre,1.0,44539.37
+100529,Parade,Minor Essel,4593.0,Summer,157.0,Lumen Field,1.0,2443.057
+100530,Tech Summit,Adrian Phalp,18822.0,Summer,103.0,Seattle City Centre,1.0,11026.299
+100531,Concert,,14705.0,Winter,107.0,Climate Pledge Arena,0.0,46576.535
+100532,Concert,Marga Philipet,7913.0,Fall,24.0,UW Quad,1.0,32905.918
+100533,Stand-Up,Pierson Bennington,9222.0,Summer,203.0,UW Quad,1.0,1193.23
+100534,Concert,Delmore Collumbine,7197.0,Fall,139.0,Climate Pledge Arena,1.0,31762.907
+100535,Farmers Market,Blondie Varnham,14586.0,Spring,112.0,Water Front,0.0,31932.355
+100536,Parade,Jesse Maddinon,15880.0,Spring,392.0,Water Front,1.0,39828.294
+100537,Festival,Myrta Ferrierio,13678.0,Spring,306.0,Seattle City Centre,1.0,30324.319
+100538,Stand-Up,Ferris Saich,18398.0,Summer,132.0,Seattle City Centre,1.0,35398.424
+100539,Farmers Market,Danella Rye,13598.0,Winter,62.0,Climate Pledge Arena,0.0,29924.386
+100540,Concert,Killie Queree,3466.0,Summer,121.0,Water Front,0.0,12704.298
+100541,Concert,Buffy Stower,19017.0,,315.0,Water Front,0.0,7074.877
+100542,Food Tour,Jared MacClinton,419.0,Winter,250.0,T-Mobile Park,0.0,2073.493
+100543,Stand-Up,Lavina Wones,19997.0,Winter,347.0,Water Front,1.0,14744.295
+100544,Tech Summit,Wesley Beernaert,18763.0,Spring,347.0,Seattle City Centre,1.0,36833.151
+100545,Tech Summit,,9183.0,Summer,347.0,UW Quad,1.0,41160.925
+100546,Food Tour,Natasha Spawell,1382.0,Summer,262.0,Lumen Field,1.0,3902.375
+100547,Farmers Market,,16882.0,Spring,129.0,T-Mobile Park,1.0,10293.21
+100548,Stand-Up,,2464.0,Spring,69.0,UW Quad,1.0,35315.527
+100549,Parade,,6779.0,Summer,393.0,Lumen Field,1.0,9737.196
+100550,Parade,Lauritz Moulding,17036.0,Fall,224.0,Seattle City Centre,0.0,41302.6
+100551,Tech Summit,Christophorus Stamper,3145.0,Spring,261.0,Climate Pledge Arena,1.0,6836.149
+100552,Stand-Up,Quintus Scotchmoor,3320.0,Fall,139.0,Water Front,,2488.64
+100553,Stand-Up,Frederick Terbrug,7423.0,Fall,342.0,Water Front,1.0,46614.654
+100554,Stand-Up,,12127.0,Spring,353.0,Seattle City Centre,0.0,37091.67
+100555,Food Tour,Mersey Lovett,2831.0,Summer,311.0,Climate Pledge Arena,0.0,17834.558
+100556,Tech Summit,Kimberlyn Shaddick,17939.0,Winter,153.0,Climate Pledge Arena,0.0,12081.54
+100557,Food Tour,Loydie Girardetti,8572.0,Summer,78.0,T-Mobile Park,0.0,18769.04
+100558,Concert,Hayden De Normanville,13241.0,Summer,224.0,Seattle City Centre,0.0,2852.124
+100559,Festival,Reinwald Begley,9520.0,Spring,263.0,Water Front,,47835.938
+100560,Concert,Elisha Tench,16903.0,Summer,312.0,Climate Pledge Arena,0.0,17767.546
+100561,Farmers Market,Lissa Huson,19308.0,Winter,22.0,Water Front,,19707.815
+100562,Concert,Alexandros Lorie,16677.0,Spring,160.0,Climate Pledge Arena,1.0,14640.494
+100563,Tech Summit,Gayler Dougliss,19554.0,Fall,322.0,UW Quad,1.0,30716.783
+100564,Food Tour,Husain Hamsher,1216.0,Summer,21.0,Lumen Field,0.0,49142.711
+100565,Tech Summit,Melamie Bohills,5795.0,Summer,130.0,UW Quad,0.0,38737.17
+100566,Food Tour,Conchita Freckingham,9309.0,Fall,40.0,Seattle City Centre,1.0,23185.536
+100567,Tech Summit,Angeli Tomankiewicz,12468.0,Fall,382.0,Water Front,0.0,32736.811
+100568,Concert,Chico Danet,13625.0,Summer,114.0,Seattle City Centre,1.0,28250.608
+100569,Tech Summit,Danni Scud,12364.0,Fall,261.0,T-Mobile Park,0.0,31239.79
+100570,Tech Summit,Jervis Rubel,6100.0,Winter,270.0,Seattle City Centre,1.0,35446.562
+100571,Concert,Maia Kornes,15651.0,Fall,285.0,Water Front,0.0,28855.124
+100572,Concert,Trstram Mc Gorley,19518.0,Summer,304.0,Lumen Field,0.0,19706.404
+100573,Food Tour,Nedda Winham,16616.0,Winter,392.0,UW Quad,0.0,44420.84
+100574,Festival,Leesa Febry,17492.0,Summer,159.0,Climate Pledge Arena,0.0,13596.084
+100575,Stand-Up,Everett Ledner,,Summer,118.0,Climate Pledge Arena,1.0,35706.362
+100576,Parade,Reynard Arnaudot,19025.0,,242.0,T-Mobile Park,1.0,14315.428
+100577,Farmers Market,Nicolai Cromblehome,6764.0,Summer,73.0,Water Front,1.0,3433.617
+100578,Stand-Up,Nana Shovelton,2253.0,Winter,83.0,T-Mobile Park,1.0,38437.68
+100579,Farmers Market,Reese Myrie,19347.0,Summer,304.0,Lumen Field,0.0,30169.826
+100580,Farmers Market,Saudra Pepall,5659.0,Winter,215.0,Seattle City Centre,0.0,37181.829
+100581,Festival,Desirae Olivello,11217.0,Fall,367.0,Climate Pledge Arena,0.0,16561.286
+100582,Tech Summit,Bard Darte,11715.0,Spring,271.0,UW Quad,0.0,38205.421
+100583,Concert,Rustie Ringwood,3078.0,Spring,212.0,UW Quad,1.0,46011.584
+100584,Parade,Lanie Gogin,16821.0,Winter,285.0,Seattle City Centre,1.0,14282.161
+100585,Farmers Market,Stevie Featonby,6855.0,Winter,377.0,Water Front,1.0,3777.159
+100586,Food Tour,Iris Raggitt,16678.0,Summer,311.0,T-Mobile Park,0.0,1085.002
+100587,Farmers Market,Adelaide Meecher,15747.0,,345.0,Lumen Field,1.0,24775.719
+100588,Food Tour,Chelsae Holley,1369.0,Winter,80.0,Water Front,0.0,15431.756
+100589,Festival,Clarissa Hanselman,4030.0,Fall,185.0,T-Mobile Park,0.0,29525.047
+100590,Farmers Market,Lisha Brandin,16566.0,Fall,89.0,T-Mobile Park,1.0,24206.896
+100591,Tech Summit,Selena Stang-Gjertsen,5600.0,Spring,159.0,Water Front,1.0,40682.369
+100592,Parade,Ray Rosenberg,15597.0,Fall,368.0,Climate Pledge Arena,0.0,22897.91
+100593,Food Tour,Lanni Casper,9723.0,Winter,210.0,T-Mobile Park,0.0,32919.511
+100594,Farmers Market,Dallas Shearstone,16155.0,Summer,253.0,Water Front,0.0,4656.554
+100595,Food Tour,Elly Geater,8709.0,Spring,157.0,Climate Pledge Arena,,46827.465
+100596,Festival,Jori Surgener,12098.0,Winter,234.0,Seattle City Centre,1.0,19388.232
+100597,Stand-Up,Alexandro Esilmon,11907.0,Spring,194.0,Climate Pledge Arena,0.0,48139.376
+100598,Concert,,9718.0,Spring,90.0,Seattle City Centre,0.0,1043.751
+100599,Food Tour,Libbey Race,14030.0,Summer,136.0,Water Front,1.0,37399.621
+100600,Concert,Brita Brian,1257.0,Spring,285.0,Climate Pledge Arena,,47203.724
+100601,Concert,Farrand Ferandez,760.0,Fall,216.0,Lumen Field,0.0,46654.482
+100602,Tech Summit,Kesley Pegler,18931.0,Summer,260.0,UW Quad,0.0,31682.481
+100603,Farmers Market,,10916.0,,268.0,Climate Pledge Arena,1.0,18070.358
+100604,Concert,Borden Adenet,4636.0,Summer,77.0,T-Mobile Park,1.0,49212.375
+100605,Parade,Shelia Featonby,6901.0,Winter,346.0,Water Front,0.0,36247.44
+100606,Parade,Britt Carlisi,16478.0,Fall,297.0,UW Quad,0.0,15305.203
+100607,Food Tour,Madelin Gout,7537.0,Winter,283.0,T-Mobile Park,1.0,38636.023
+100608,Tech Summit,Monte Chasney,5609.0,,192.0,Lumen Field,0.0,13316.735
+100609,Parade,Frans De Wolfe,12463.0,Winter,139.0,Water Front,1.0,43048.096
+100610,Concert,Corey Reade,14388.0,Winter,216.0,T-Mobile Park,0.0,42612.56
+100611,Tech Summit,Deanne Gaylard,7078.0,Winter,219.0,Lumen Field,0.0,25040.138
+100612,Farmers Market,Robby Pomery,7140.0,Winter,74.0,T-Mobile Park,0.0,13799.133
+100613,Stand-Up,,2943.0,Summer,337.0,UW Quad,1.0,38518.533
+100614,Parade,Anson Foskett,11327.0,Winter,377.0,T-Mobile Park,0.0,11065.16
+100615,Stand-Up,Abbot Adamiak,18298.0,Winter,204.0,UW Quad,1.0,45479.846
+100616,Concert,Drusilla Sijmons,14023.0,Summer,299.0,T-Mobile Park,1.0,48364.364
+100617,Festival,Hamil Comar,1237.0,Winter,35.0,Lumen Field,0.0,17531.33
+100618,Tech Summit,Rickard Stiger,9274.0,Fall,89.0,Climate Pledge Arena,1.0,8728.545
+100619,Concert,Wilt Clayton,7755.0,Spring,42.0,Lumen Field,1.0,8239.191
+100620,Stand-Up,Dolph Klein,11818.0,Summer,352.0,Climate Pledge Arena,0.0,36168.024
+100621,Festival,Devi Lemmers,11605.0,Summer,298.0,Water Front,0.0,46784.541
+100622,Farmers Market,Dorette Tuffield,14458.0,Winter,123.0,UW Quad,0.0,25586.398
+100623,Concert,,5025.0,Spring,131.0,Water Front,1.0,14698.177
+100624,Stand-Up,Thibaut Bamforth,9034.0,Spring,350.0,UW Quad,0.0,6440.874
+100625,Farmers Market,Oliy Ovill,11249.0,Spring,375.0,Seattle City Centre,0.0,14695.932
+100626,Farmers Market,Christoforo Smewing,7987.0,Winter,,T-Mobile Park,0.0,24722.689
+100627,Food Tour,Christoph Line,18306.0,Fall,53.0,UW Quad,,35207.421
+100628,Food Tour,Anatollo Coldtart,19326.0,Spring,276.0,Climate Pledge Arena,1.0,20043.455
+100629,Festival,Juliane Ales,6502.0,Spring,191.0,Water Front,1.0,29027.244
+100630,Tech Summit,Moria Gludor,18352.0,Summer,267.0,Water Front,1.0,3057.895
+100631,Stand-Up,Cristabel Galler,13851.0,Winter,359.0,Climate Pledge Arena,0.0,14299.475
+100632,Farmers Market,Dinnie Giraudeau,18267.0,Fall,58.0,Lumen Field,0.0,14942.066
+100633,Concert,Blake Burgett,18460.0,Winter,349.0,Seattle City Centre,0.0,37285.383
+100634,Tech Summit,Blondelle Konertz,8631.0,Winter,33.0,UW Quad,0.0,21696.544
+100635,Festival,Nichole O Mulderrig,6904.0,,360.0,Lumen Field,1.0,3377.035
+100636,Food Tour,Rosella Pettman,391.0,Winter,300.0,UW Quad,1.0,17251.627
+100637,Parade,Dani Tarply,17664.0,Summer,317.0,Seattle City Centre,1.0,19805.28
+100638,Food Tour,Barclay Janik,14040.0,Spring,93.0,Water Front,1.0,35783.667
+100639,Food Tour,,14960.0,Fall,260.0,Seattle City Centre,,14880.592
+100640,Parade,,9019.0,Winter,,Lumen Field,1.0,2112.423
+100641,Festival,Blisse Blackham,19329.0,Winter,88.0,UW Quad,1.0,11923.433
+100642,Farmers Market,Caroljean Astell,4498.0,Fall,140.0,Seattle City Centre,0.0,12319.971
+100643,Farmers Market,Melonie O Sculley,3332.0,Spring,382.0,T-Mobile Park,1.0,36275.129
+100644,Stand-Up,Sven Wisden,13786.0,Fall,107.0,UW Quad,1.0,25535.793
+100645,Stand-Up,Herbie Smitherham,5701.0,Winter,229.0,T-Mobile Park,0.0,29410.468
+100646,Stand-Up,Dorothee Habden,3837.0,Summer,277.0,Seattle City Centre,1.0,15470.962
+100647,Festival,Beverly Pattisson,2894.0,Spring,201.0,UW Quad,0.0,45156.816
+100648,Farmers Market,Oliviero Painswick,7507.0,Fall,163.0,Lumen Field,1.0,30830.696
+100649,Parade,Janey Spire,7869.0,,39.0,Lumen Field,0.0,30157.61
+100650,Farmers Market,Cari Fountian,17348.0,Spring,171.0,Seattle City Centre,0.0,49628.98
+100651,Tech Summit,Carena Portman,13355.0,Winter,283.0,UW Quad,0.0,3817.063
+100652,Festival,Ximenez Nangle,18680.0,Spring,127.0,Seattle City Centre,0.0,15739.13
+100653,Festival,Aurlie Eltringham,936.0,Summer,59.0,T-Mobile Park,1.0,6477.53
+100654,Parade,Michaela Renbold,11477.0,Summer,72.0,Climate Pledge Arena,0.0,31858.989
+100655,Parade,Lanae Clinch,14084.0,Spring,159.0,Climate Pledge Arena,0.0,45710.202
+100656,Farmers Market,Saree Wrenn,10647.0,Fall,21.0,Seattle City Centre,0.0,29707.584
+100657,Food Tour,Alecia Ivkovic,500.0,,58.0,UW Quad,,3968.508
+100658,Farmers Market,Michaeline Camili,1053.0,Fall,192.0,Seattle City Centre,0.0,7930.494
+100659,Tech Summit,Jenda Menico,14298.0,Spring,96.0,T-Mobile Park,1.0,7650.946
+100660,Parade,Loretta Millwater,11434.0,Summer,231.0,Lumen Field,1.0,44115.855
+100661,Farmers Market,Kerry Baxstair,4904.0,Winter,54.0,Lumen Field,1.0,12682.297
+100662,Stand-Up,Bordy Mendenhall,8145.0,Spring,20.0,Lumen Field,0.0,33102.513
+100663,Concert,Darrel Spata,8515.0,Spring,186.0,Climate Pledge Arena,0.0,12742.329
+100664,Parade,,14170.0,Spring,112.0,Climate Pledge Arena,,31311.393
+100665,Tech Summit,Winny Baumadier,3105.0,Spring,223.0,Climate Pledge Arena,0.0,7367.539
+100666,Concert,Aleksandr Thresh,4591.0,Fall,184.0,UW Quad,1.0,17123.008
+100667,Festival,Roderick Chettoe,9680.0,Spring,145.0,Lumen Field,0.0,11008.998
+100668,Festival,,8511.0,Winter,138.0,Climate Pledge Arena,0.0,7263.691
+100669,Food Tour,Craig Sillwood,11645.0,Winter,269.0,Seattle City Centre,0.0,38176.629
+100670,Tech Summit,Lorettalorna Calbert,17418.0,Winter,255.0,Climate Pledge Arena,0.0,1012.171
+100671,Farmers Market,Norton Partener,18615.0,Fall,251.0,Seattle City Centre,0.0,32246.451
+100672,Festival,Phyllis McLardie,18480.0,Winter,71.0,Lumen Field,0.0,47549.481
+100673,Parade,Standford Duchatel,13444.0,Summer,322.0,Climate Pledge Arena,1.0,17867.913
+100674,Farmers Market,Izzy Bartels,11107.0,Winter,390.0,Climate Pledge Arena,0.0,3681.688
+100675,Tech Summit,Rab Delahunt,17918.0,Summer,310.0,Water Front,0.0,33815.502
+100676,Parade,Lil Toffaloni,16146.0,Summer,233.0,T-Mobile Park,0.0,8025.206
+100677,Concert,Lesley Asken,4808.0,Fall,352.0,Seattle City Centre,0.0,27212.251
+100678,Parade,Addia Lackinton,4018.0,Summer,352.0,Climate Pledge Arena,0.0,4957.471
+100679,Concert,Reube Hair,17154.0,Fall,106.0,Climate Pledge Arena,1.0,19574.718
+100680,Tech Summit,Barrie Mitkov,19899.0,Fall,396.0,T-Mobile Park,0.0,12878.513
+100681,Concert,Carri Stut,11767.0,Fall,348.0,Seattle City Centre,0.0,45655.103
+100682,Stand-Up,Kassey Reijmers,11788.0,Spring,41.0,Climate Pledge Arena,0.0,39551.727
+100683,Farmers Market,Benson Peschet,8105.0,Fall,167.0,Lumen Field,0.0,20209.313
+100684,Concert,Krispin Sonner,2290.0,Fall,73.0,Climate Pledge Arena,1.0,38844.32
+100685,Concert,Gayel Bowden,1817.0,Summer,241.0,Climate Pledge Arena,0.0,41802.699
+100686,Concert,Timofei Wass,13666.0,Summer,42.0,Seattle City Centre,1.0,34364.967
+100687,Stand-Up,Fonsie Pawelski,7156.0,Fall,178.0,Water Front,1.0,30760.408
+100688,Concert,Meredith Casterton,540.0,,124.0,UW Quad,0.0,21026.989
+100689,Food Tour,Chelsie Skillings,17488.0,Fall,250.0,T-Mobile Park,0.0,13602.058
+100690,Festival,Ulla Gladdolph,2202.0,Fall,180.0,UW Quad,1.0,16753.878
+100691,Concert,Arlen Beniesh,2281.0,Summer,172.0,Seattle City Centre,0.0,11363.356
+100692,Parade,Danielle O Lagene,19665.0,Fall,184.0,Lumen Field,0.0,19381.568
+100693,Food Tour,Talbert Ector,11349.0,Spring,338.0,Lumen Field,0.0,37152.224
+100694,Concert,Jessika Pastor,12581.0,,279.0,UW Quad,1.0,20953.901
+100695,Food Tour,Buddie Leamy,515.0,Fall,136.0,Climate Pledge Arena,0.0,31542.456
+100696,Food Tour,Ottilie Kuschel,18131.0,Fall,65.0,UW Quad,0.0,21483.624
+100697,Festival,Luce Thornley,4076.0,Fall,39.0,Climate Pledge Arena,1.0,28415.405
+100698,Concert,Adan Bickmore,15340.0,Winter,140.0,Climate Pledge Arena,0.0,29874.201
+100699,Tech Summit,Ronni Hawkswell,6582.0,Fall,241.0,Water Front,0.0,35411.877
+100700,Stand-Up,Briny Ortelt,4360.0,Winter,46.0,UW Quad,0.0,31978.545
+100701,Tech Summit,Beryle Minichi,1044.0,Fall,26.0,UW Quad,0.0,18818.257
+100702,Tech Summit,Ora Groucutt,7516.0,Winter,228.0,T-Mobile Park,0.0,35183.406
+100703,Tech Summit,Karlen Andrea,14307.0,Spring,309.0,T-Mobile Park,0.0,22360.825
+100704,Concert,Selia Prosek,2474.0,Spring,338.0,T-Mobile Park,0.0,43709.611
+100705,Food Tour,Brena Stanbra,6235.0,Fall,,UW Quad,1.0,12189.802
+100706,Parade,Nydia McErlaine,18455.0,Winter,351.0,T-Mobile Park,1.0,31038.991
+100707,Farmers Market,Ximenez Costock,12028.0,Fall,176.0,Water Front,1.0,48025.592
+100708,Concert,Lilas Nipper,5688.0,Winter,231.0,Seattle City Centre,1.0,40483.812
+100709,Stand-Up,Gabriel Govini,18571.0,Summer,201.0,T-Mobile Park,0.0,27433.444
+100710,Festival,Skye Richter,8848.0,Winter,358.0,Seattle City Centre,1.0,9342.071
+100711,Stand-Up,Bibbye Diamond,10377.0,Winter,202.0,Water Front,1.0,38100.443
+100712,Tech Summit,Kerwin Mence,,Fall,56.0,T-Mobile Park,1.0,30818.593
+100713,Farmers Market,Jess Chapman,13878.0,Summer,199.0,UW Quad,1.0,2654.142
+100714,Concert,Coral Affron,11984.0,Summer,84.0,UW Quad,0.0,12369.185
+100715,Farmers Market,Barnabe Crampton,4541.0,Summer,366.0,Lumen Field,1.0,25193.553
+100716,Festival,Penny Francais,5788.0,Summer,108.0,Seattle City Centre,,49099.165
+100717,Parade,Linus Pucker,13278.0,Spring,380.0,Climate Pledge Arena,0.0,7849.028
+100718,Farmers Market,Reina Nares,8574.0,Winter,390.0,Lumen Field,1.0,12650.17
+100719,Concert,Jessalin Brehat,12522.0,Fall,297.0,Seattle City Centre,1.0,21438.918
+100720,Parade,Vinni Meharry,18835.0,Winter,372.0,Lumen Field,1.0,35254.471
+100721,Festival,Rachel Tembey,1341.0,Winter,61.0,Lumen Field,1.0,4601.148
+100722,Stand-Up,Gustav Rodell,6617.0,Winter,93.0,Climate Pledge Arena,0.0,47076.885
+100723,Food Tour,Mia Tigner,432.0,Spring,385.0,UW Quad,0.0,26480.866
+100724,Food Tour,,11009.0,Winter,139.0,Seattle City Centre,1.0,17239.162
+100725,Food Tour,Holly McKune,11286.0,Summer,140.0,Water Front,,47551.986
+100726,Farmers Market,Dorene Ogglebie,10032.0,Spring,73.0,Lumen Field,1.0,33176.865
+100727,Stand-Up,,9907.0,,140.0,T-Mobile Park,1.0,44736.369
+100728,Parade,,5317.0,Summer,155.0,Lumen Field,0.0,47933.657
+100729,Festival,Bank Fibbitts,17718.0,Fall,129.0,T-Mobile Park,1.0,49015.324
+100730,Tech Summit,Jeanelle Gryglewski,18457.0,Winter,369.0,Water Front,0.0,26717.277
+100731,Concert,Jorgan Marvelley,6625.0,Summer,248.0,Climate Pledge Arena,0.0,4390.699

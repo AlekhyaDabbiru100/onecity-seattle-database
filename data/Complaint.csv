@@ -1,0 +1,732 @@
+Complaint_ID,Description,Date,Status,Process_time
+100000001,Broken public fountains complaint at Olympic Sculpture Park Street,2024-03-14,Closed,10.0
+100000002,Inadequate street drainage complaint at South Lake Union Street,2022-08-07,Closed,19.0
+100000003,Snow removal issues in residential areas complaint at Magnolia Street,2023-04-29,In Progress,
+100000004,Poor lighting in parking lots complaint at Ballard Street,2023-01-26,Pending,
+100000005,Pedestrian safety issues complaint at Chinatown-International District Street,2024-05-10,Closed,16.0
+100000006,Insufficient benches in parks complaint at Carkeek Park Street,2022-05-20,Pending,
+100000007,Public benches in bad condition complaint at Volunteer Park Street,2024-10-05,Closed,8.0
+100000008,Unlit pathways complaint at Pinehurst Street,2024-01-08,Resolved,8.0
+100000009,Broken public water pipes complaint at East Queen Anne Street,2024-01-30,Resolved,
+100000010,Inadequate street lighting in parks complaint at Gas Works Park Street,2024-06-16,In Progress,
+100000011,Poor road signage complaint at Georgetown Street,2024-07-27,Pending,
+100000012,Vandalized public property complaint at Pioneer Square Street,2022-09-02,In Progress,
+100000013,Broken streetlights complaint at Capitol Hill Street,2022-08-05,Closed,3.0
+100000014,Damaged guardrails complaint at I-90 Street,2024-02-28,Pending,
+100000015,Insufficient benches in parks complaint at Carkeek Park Street,2024-04-11,Pending,
+100000016,Water leakage in streets complaint at Lake City Street,2024-07-05,Pending,
+100000017,Broken public fountains complaint at Olympic Sculpture Park Street,2024-07-26,Pending,
+100000018,Unused public spaces complaint at International District Street,2023-06-28,Resolved,15.0
+100000019,Broken sidewalk complaint at Ballard Street,2023-08-08,Pending,
+100000020,Inadequate street lighting in parks complaint at Gas Works Park Street,2022-07-05,Resolved,2.0
+100000021,Damaged pedestrian bridges complaint at Fremont Bridge Street,2023-11-25,In Progress,
+100000022,Poor maintenance of public gyms complaint at Wallingford Street,2022-04-13,Resolved,16.0
+100000023,Rubbish left at public events complaint at Seattle Center Street,2022-05-06,Closed,13.0
+100000024,Construction debris on sidewalks complaint at South Lake Union Street,2023-10-16,In Progress,
+100000025,Unplanted trees in parks complaint at Discovery Park Street,2022-11-24,Resolved,3.0
+100000026,Traffic congestion complaint at I-5 corridor Street,2024-05-20,Closed,17.0
+100000027,Damaged public signage complaint at Georgetown Street,2024-05-05,Pending,
+100000028,Construction debris on sidewalks complaint at South Lake Union Street,2022-09-14,Resolved,16.0
+100000029,Broken public drinking fountains complaint at Discovery Park Street,2023-06-30,In Progress,
+100000030,Broken traffic lights complaint at Admiral District Street,2022-06-08,In Progress,
+100000031,Broken sidewalk tiles complaint at First Hill Street,2024-02-23,In Progress,
+100000032,Public benches in bad condition complaint at Volunteer Park Street,2022-04-20,Pending,
+100000033,Broken public benches complaint at Washington Park Arboretum Street,2022-12-19,Pending,
+100000034,Abandoned construction sites complaint at Northgate Street,2022-12-08,Resolved,19.0
+100000035,Broken public water pipes complaint at East Queen Anne Street,2022-05-01,Closed,11.0
+100000036,Unlit pathways complaint at Pinehurst Street,2023-09-13,Resolved,16.0
+100000037,Potholes on the road complaint at Cherry Street,2023-05-23,Pending,
+100000038,Street erosion near waterfront complaint at Elliott Bay Street,2024-10-20,Pending,
+100000039,Unsafe bike lanes complaint at Belltown Street,2022-11-23,Resolved,15.0
+100000040,Traffic signal malfunction complaint at Queen Anne Street,2022-10-08,Closed,3.0
+100000041,Lack of bike racks complaint at Ballard Street,2022-11-06,Resolved,19.0
+100000042,Broken public benches complaint at Washington Park Arboretum Street,2024-09-15,Closed,13.0
+100000043,Public facilities without wheelchair access complaint at Seattle Public Library Street,2023-05-01,Resolved,4.0
+100000044,Graffiti in bus stations complaint at Capitol Hill Station Street,2024-06-29,Resolved,14.0
+100000045,Damaged public mailboxes complaint at Ballard Street,2023-12-13,Resolved,3.0
+100000046,Inadequate street drainage complaint at South Lake Union Street,2023-07-09,Closed,19.0
+100000047,Broken road barriers complaint at Aurora Bridge Street,2024-12-01,In Progress,
+100000048,Unmaintained bus stops complaint at Ballard Street,2024-07-05,Resolved,20.0
+100000049,Lack of recycling bins complaint at Pioneer Square Street,2022-07-02,Closed,
+100000050,Missing or damaged street signs complaint at Rainier Beach Street,2022-02-07,Closed,10.0
+100000051,Poor maintenance of public gyms complaint at Wallingford Street,2024-04-08,Closed,13.0
+100000052,Flooded streets after rain complaint at Rainier Valley Street,2024-08-23,In Progress,
+100000053,Deteriorating public sculptures complaint at Downtown Seattle Street,2023-08-17,Resolved,15.0
+100000054,Badly maintained public roads complaint at Aurora Avenue Street,2024-08-24,Resolved,9.0
+100000055,Broken road barriers complaint at Aurora Bridge Street,2023-02-16,In Progress,
+100000056,Poor air quality complaint at Beacon Hill Street,2024-05-18,Resolved,6.0
+100000057,Construction debris on sidewalks complaint at South Lake Union Street,2022-03-05,Pending,
+100000058,Overflowing trash bins complaint at Pike Place Street,2022-03-07,Resolved,8.0
+100000059,Rubbish left at public events complaint at Seattle Center Street,2023-02-21,In Progress,
+100000060,Potholes on the road complaint at Cherry Street,2022-03-09,Pending,
+100000061,Vandalized public property complaint at Pioneer Square Street,2022-04-04,Resolved,4.0
+100000062,Damaged crosswalk markings complaint at Lake City Way Street,2022-12-12,In Progress,
+100000063,Poor water drainage on roads complaint at Capitol Hill Street,2022-02-22,Resolved,
+100000064,Old public infrastructure complaint at Queen Anne Hill Street,2022-07-12,Resolved,19.0
+100000065,Slow public transportation complaint at West Seattle Street,2024-12-02,Pending,
+100000066,Road signs covered by trees complaint at Greenwood Street,2022-08-19,Pending,
+100000067,Noisy street vendors complaint at Pike Place Market Street,2024-08-20,Closed,20.0
+100000068,Deteriorating public sculptures complaint at Downtown Seattle Street,2022-05-17,Pending,
+100000069,Inadequate street lighting in parks complaint at Gas Works Park Street,2022-04-29,Resolved,11.0
+100000070,Damaged guardrails complaint at I-90 Street,2024-03-19,In Progress,
+100000071,Unswept streets complaint at West Seattle Junction Street,2024-09-28,Resolved,1.0
+100000072,Unstable bridges complaint at Ballard Bridge Street,2022-08-13,In Progress,
+100000073,Lack of recycling bins complaint at Pioneer Square Street,2024-07-29,In Progress,
+100000074,Inadequate public transit routes complaint at West Seattle Street,2023-12-30,In Progress,
+100000075,Lack of emergency services complaint at West Seattle Street,2022-06-10,Resolved,19.0
+100000076,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2024-08-10,Resolved,17.0
+100000077,Unmaintained bus stops complaint at Ballard Street,2022-09-27,Resolved,18.0
+100000078,Inadequate street drainage complaint at South Lake Union Street,2023-05-20,Resolved,17.0
+100000079,Unkempt public gardens complaint at Olympic Hills Street,2023-05-05,Closed,9.0
+100000080,Abandoned construction sites complaint at Northgate Street,2024-10-11,Resolved,8.0
+100000081,Lack of bike racks complaint at Ballard Street,2022-06-24,Pending,
+100000082,Overgrown grass in public areas complaint at Seward Park Street,2023-12-04,Resolved,18.0
+100000083,Vandalized public property complaint at Pioneer Square Street,2024-07-26,Resolved,16.0
+100000084,Pedestrian safety issues complaint at Chinatown-International District Street,2023-03-08,Resolved,2.0
+100000085,Public benches in bad condition complaint at Volunteer Park Street,2023-09-01,Pending,
+100000086,Bus schedule delays complaint at Rainier Beach Street,2024-08-29,Pending,
+100000087,Broken road barriers complaint at Aurora Bridge Street,2022-08-25,Closed,19.0
+100000088,Broken public drinking fountains complaint at Discovery Park Street,2024-08-26,In Progress,
+100000089,Street erosion near waterfront complaint at Elliott Bay Street,2023-04-17,Pending,
+100000090,Unplanted trees in parks complaint at Discovery Park Street,2023-07-13,Pending,
+100000091,Noisy construction work at night complaint at Belltown Street,2022-09-03,In Progress,
+100000092,Poor air quality complaint at Beacon Hill Street,2022-11-13,Closed,7.0
+100000093,Lack of parking spaces complaint at Seattle Center Street,2024-01-04,Pending,
+100000094,Lack of bike lanes complaint at Downtown Seattle Street,2024-06-12,Resolved,7.0
+100000095,Traffic signal malfunction complaint at Queen Anne Street,2023-04-13,Closed,2.0
+100000096,Poor street cleaning complaint at University District Street,2023-12-20,In Progress,
+100000097,Lack of bike lanes complaint at Downtown Seattle Street,2024-08-07,Pending,
+100000098,Overgrown grass in public areas complaint at Seward Park Street,2023-07-17,Resolved,2.0
+100000099,Missing public trash cans complaint at Fremont Street,2024-04-02,Pending,
+100000100,Lack of bike racks complaint at Ballard Street,2023-03-27,Pending,
+100000101,Poor air quality complaint at Beacon Hill Street,2022-01-14,Closed,4.0
+100000102,Noisy street vendors complaint at Pike Place Market Street,2023-02-27,Resolved,8.0
+100000103,Blocked storm drains complaint at Magnolia Street,2024-05-30,In Progress,
+100000104,Inadequate public transit routes complaint at West Seattle Street,2022-02-16,Resolved,1.0
+100000105,Untrimmed hedges complaint at Madrone Street,2023-03-19,In Progress,
+100000106,Unattended illegal dumping complaint at SODO Street,2023-12-15,Resolved,8.0
+100000107,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2023-03-18,Closed,19.0
+100000108,Missing or damaged street signs complaint at Rainier Beach Street,2023-11-05,Pending,
+100000109,Vandalized public property complaint at Pioneer Square Street,2022-07-10,In Progress,
+100000110,Missing public trash cans complaint at Fremont Street,2022-09-19,In Progress,
+100000111,Uneven road surfaces complaint at Greenlake Street,2022-10-03,Resolved,15.0
+100000112,Broken public fountains complaint at Olympic Sculpture Park Street,2023-09-06,In Progress,
+100000113,Insufficient benches in parks complaint at Carkeek Park Street,2023-01-10,Closed,8.0
+100000114,Poor maintenance of public gyms complaint at Wallingford Street,2023-01-09,Pending,
+100000115,Lack of parking spaces complaint at Seattle Center Street,2022-10-30,Closed,5.0
+100000116,Poor water drainage on roads complaint at Capitol Hill Street,2022-06-16,Resolved,15.0
+100000117,Noise pollution at night complaint at Fremont Street,2024-11-24,Pending,
+100000118,Potholes on the road complaint at Cherry Street,2024-07-22,Pending,
+100000119,Overflowing trash bins complaint at Pike Place Street,2022-01-21,In Progress,
+100000120,Broken traffic lights complaint at Admiral District Street,2022-12-22,Closed,6.0
+100000121,Untrimmed hedges complaint at Madrone Street,2023-08-17,Resolved,9.0
+100000122,Blocked storm drains complaint at Magnolia Street,2023-09-29,Resolved,1.0
+100000123,Graffiti in bus stations complaint at Capitol Hill Station Street,2023-06-10,Closed,9.0
+100000124,Badly maintained public roads complaint at Aurora Avenue Street,2022-03-03,In Progress,
+100000125,Improperly placed bus stops complaint at Capitol Hill Street,2024-03-18,In Progress,
+100000126,Traffic signal malfunction complaint at Queen Anne Street,2023-12-27,Pending,
+100000127,Unused public spaces complaint at International District Street,2023-05-21,Pending,
+100000128,Damaged guardrails complaint at I-90 Street,2024-04-28,In Progress,
+100000129,Overflowing trash bins complaint at Pike Place Street,2023-06-28,Pending,
+100000130,Overgrown grass in public areas complaint at Seward Park Street,2023-06-04,Closed,
+100000131,Uncollected garbage complaint at South Lake Union Street,2024-11-27,Resolved,14.0
+100000132,Lack of pedestrian overpasses complaint at Eastside Street,2024-01-11,Closed,7.0
+100000133,Lack of playground safety complaint at Broadway Street,2022-06-13,Closed,16.0
+100000134,Unstable bridges complaint at Ballard Bridge Street,2024-07-19,Closed,5.0
+100000135,Snow removal issues in residential areas complaint at Magnolia Street,2023-07-19,Pending,
+100000136,Broken public fountains complaint at Olympic Sculpture Park Street,2024-08-01,Pending,
+100000137,Inconsistent trash pickup complaint at Northgate Street,2022-01-07,Closed,16.0
+100000138,Graffiti on public walls complaint at Belltown Street,2022-10-21,Closed,10.0
+100000139,Inconsistent trash pickup complaint at Northgate Street,2024-07-29,In Progress,
+100000140,Snow removal issues in residential areas complaint at Magnolia Street,2024-12-23,Pending,
+100000141,Insufficient benches in parks complaint at Carkeek Park Street,2024-05-02,Resolved,11.0
+100000142,Broken sidewalk tiles complaint at First Hill Street,2024-10-16,Closed,2.0
+100000143,Lack of recycling bins complaint at Pioneer Square Street,2024-10-24,In Progress,
+100000144,Graffiti on public transport complaint at Sound Transit Street,2022-10-26,In Progress,
+100000145,Flooded streets after rain complaint at Rainier Valley Street,2023-07-04,Closed,11.0
+100000146,Lack of bike lanes complaint at Downtown Seattle Street,2024-03-02,In Progress,
+100000147,Unswept streets complaint at West Seattle Junction Street,2022-03-20,In Progress,
+100000148,Dangerous road intersections complaint at Interbay Street,2024-07-06,Pending,
+100000149,Inadequate street lighting in parks complaint at Gas Works Park Street,2023-05-28,In Progress,
+100000150,Missing or damaged street signs complaint at Rainier Beach Street,2023-03-24,In Progress,
+100000151,Missing or damaged street signs complaint at Rainier Beach Street,2022-10-12,Resolved,12.0
+100000152,Inconsistent park maintenance complaint at Cal Anderson Park Street,2022-05-31,In Progress,
+100000153,Damaged public signage complaint at Georgetown Street,2023-09-22,Resolved,20.0
+100000154,Dangerous potholes complaint at South Park Street,2024-05-28,Closed,9.0
+100000155,Lack of parking spaces complaint at Seattle Center Street,2022-07-27,Closed,19.0
+100000156,Uncollected garbage complaint at South Lake Union Street,2024-07-06,In Progress,
+100000157,Broken streetlights complaint at Capitol Hill Street,2023-05-01,Pending,
+100000158,Uneven road surfaces complaint at Greenlake Street,2022-05-31,Pending,
+100000159,Broken public water pipes complaint at East Queen Anne Street,2022-03-02,In Progress,
+100000160,Stray animals in the neighborhood complaint at Greenwood Street,2022-10-06,Closed,12.0
+100000161,Deteriorating public sculptures complaint at Downtown Seattle Street,2022-05-05,Resolved,
+100000162,Broken public fountains complaint at Olympic Sculpture Park Street,2022-04-07,Resolved,2.0
+100000163,Potholes on the road complaint at Cherry Street,2024-05-02,Pending,
+100000164,Broken road barriers complaint at Aurora Bridge Street,2022-03-20,Pending,
+100000165,Damaged crosswalk markings complaint at Lake City Way Street,2024-11-25,In Progress,
+100000166,Unplanted trees in parks complaint at Discovery Park Street,2023-06-01,In Progress,
+100000167,Deteriorating public sculptures complaint at Downtown Seattle Street,2023-11-14,In Progress,
+100000168,Unswept streets complaint at West Seattle Junction Street,2024-09-08,Resolved,6.0
+100000169,Deteriorating public paths complaint at Alki Beach Street,2024-05-30,Closed,14.0
+100000170,Poor pedestrian infrastructure complaint at Fremont Bridge Street,2022-10-13,Closed,15.0
+100000171,Overflowing stormwater basins complaint at Lake Washington Street,2022-11-28,Closed,
+100000172,Uneven road surfaces complaint at Greenlake Street,2023-09-02,Resolved,
+100000173,Missing public trash cans complaint at Fremont Street,2023-12-27,In Progress,
+100000174,Overgrown grass in public areas complaint at Seward Park Street,2022-02-09,Resolved,6.0
+100000175,Damaged crosswalk markings complaint at Lake City Way Street,2023-01-16,Resolved,12.0
+100000176,Public benches in bad condition complaint at Volunteer Park Street,2022-01-26,Pending,
+100000177,Inconsistent park maintenance complaint at Cal Anderson Park Street,2023-11-13,Pending,
+100000178,Broken public fountains complaint at Olympic Sculpture Park Street,2022-12-03,Closed,
+100000179,Overgrown trees blocking street view complaint at Lake Union Street,2023-04-30,In Progress,
+100000180,Unswept streets complaint at West Seattle Junction Street,2022-09-04,Closed,6.0
+100000181,Unswept streets complaint at West Seattle Junction Street,2024-10-08,In Progress,
+100000182,Street erosion near waterfront complaint at Elliott Bay Street,2022-01-19,In Progress,
+100000183,Public benches in bad condition complaint at Volunteer Park Street,2024-05-02,Closed,15.0
+100000184,Dangerous road intersections complaint at Interbay Street,2023-11-25,Closed,18.0
+100000185,Unsafe bike lanes complaint at Belltown Street,2024-01-08,Pending,
+100000186,Insufficient benches in parks complaint at Carkeek Park Street,2022-09-13,Closed,1.0
+100000187,Abandoned construction sites complaint at Northgate Street,2022-02-27,Pending,
+100000188,Lack of bus shelter amenities complaint at University of Washington Street,2023-09-23,Pending,
+100000189,Overgrown trees blocking street view complaint at Lake Union Street,2022-12-05,In Progress,
+100000190,Damaged public mailboxes complaint at Ballard Street,2022-11-16,In Progress,
+100000191,Lack of bike racks complaint at Ballard Street,2022-07-11,Resolved,12.0
+100000192,Traffic congestion complaint at I-5 corridor Street,2024-03-29,Resolved,6.0
+100000193,Dirty public restrooms complaint at Waterfront Park Street,2022-06-15,Closed,5.0
+100000194,Dangerous potholes complaint at South Park Street,2023-03-19,Closed,17.0
+100000195,Pedestrian safety issues complaint at Chinatown-International District Street,2024-05-21,In Progress,
+100000196,Broken traffic lights complaint at Admiral District Street,2022-07-26,Resolved,2.0
+100000197,Broken public water pipes complaint at East Queen Anne Street,2024-06-30,Resolved,16.0
+100000198,Inadequate street drainage complaint at South Lake Union Street,2022-12-03,Pending,
+100000199,Lack of bike lanes complaint at Downtown Seattle Street,2022-03-11,In Progress,
+100000200,Overgrown grass in public areas complaint at Seward Park Street,2023-04-17,Closed,17.0
+100000201,Insufficient benches in parks complaint at Carkeek Park Street,2023-04-24,Pending,
+100000202,Dangerous potholes complaint at South Park Street,2022-05-22,In Progress,
+100000203,Broken road barriers complaint at Aurora Bridge Street,2023-10-19,In Progress,
+100000204,Poor road maintenance complaint at Capitol Hill Street,2022-07-30,Resolved,14.0
+100000205,Damaged public signage complaint at Georgetown Street,2024-07-21,In Progress,
+100000206,Dirty public restrooms complaint at Waterfront Park Street,2024-12-10,Closed,1.0
+100000207,Overgrown grass in public areas complaint at Seward Park Street,2024-06-23,Closed,2.0
+100000208,Broken sidewalk tiles complaint at First Hill Street,2022-05-07,Resolved,8.0
+100000209,Badly maintained public roads complaint at Aurora Avenue Street,2024-09-04,In Progress,
+100000210,Rubbish left at public events complaint at Seattle Center Street,2024-10-03,Closed,3.0
+100000211,Dirty public restrooms complaint at Waterfront Park Street,2023-03-31,Resolved,13.0
+100000212,Unstable bridges complaint at Ballard Bridge Street,2022-05-09,Closed,14.0
+100000213,Broken public fountains complaint at Olympic Sculpture Park Street,2023-03-30,Pending,
+100000214,Unplanted trees in parks complaint at Discovery Park Street,2023-11-04,Closed,18.0
+100000215,Construction debris on sidewalks complaint at South Lake Union Street,2024-08-24,In Progress,
+100000216,Street erosion near waterfront complaint at Elliott Bay Street,2022-06-02,Resolved,3.0
+100000217,Dangerous potholes complaint at South Park Street,2022-02-11,In Progress,
+100000218,Graffiti on public transport complaint at Sound Transit Street,2022-04-05,Pending,
+100000219,Flooded streets after rain complaint at Rainier Valley Street,2022-10-07,In Progress,
+100000220,Dangerous road intersections complaint at Interbay Street,2023-11-18,Pending,
+100000221,Old public infrastructure complaint at Queen Anne Hill Street,2024-08-10,Closed,
+100000222,Poor air quality complaint at Beacon Hill Street,2024-02-07,Resolved,3.0
+100000223,Traffic signal malfunction complaint at Queen Anne Street,2023-01-12,Closed,13.0
+100000224,Unattended illegal dumping complaint at SODO Street,2023-10-01,Resolved,10.0
+100000225,Damaged crosswalk markings complaint at Lake City Way Street,2024-05-25,In Progress,
+100000226,Noisy street vendors complaint at Pike Place Market Street,2023-08-29,In Progress,
+100000227,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2022-07-28,Pending,
+100000228,Traffic congestion complaint at I-5 corridor Street,2023-08-28,Closed,1.0
+100000229,Lack of recycling bins complaint at Pioneer Square Street,2024-08-09,Resolved,7.0
+100000230,Public parks without seating complaint at Denny Park Street,2023-05-10,Resolved,1.0
+100000231,Damaged public mailboxes complaint at Ballard Street,2022-05-23,Closed,14.0
+100000232,Missing fire hydrants complaint at Madrona Street,2024-02-21,Resolved,17.0
+100000233,Missing fire hydrants complaint at Madrona Street,2023-12-09,Closed,2.0
+100000234,Damaged public signage complaint at Georgetown Street,2024-03-19,Pending,
+100000235,Pedestrian safety issues complaint at Chinatown-International District Street,2024-11-16,Pending,
+100000236,Damaged public signage complaint at Georgetown Street,2024-09-16,Closed,13.0
+100000237,Uncollected garbage complaint at South Lake Union Street,2023-08-14,Resolved,1.0
+100000238,Traffic signal malfunction complaint at Queen Anne Street,2023-01-30,Closed,18.0
+100000239,Abandoned construction sites complaint at Northgate Street,2023-10-15,Pending,
+100000240,Untrimmed hedges complaint at Madrone Street,2023-11-29,In Progress,
+100000241,Flooded streets after rain complaint at Rainier Valley Street,2023-10-21,Closed,19.0
+100000242,Broken public fountains complaint at Olympic Sculpture Park Street,2022-08-26,Resolved,12.0
+100000243,Snow removal issues in residential areas complaint at Magnolia Street,2022-04-03,In Progress,
+100000244,Abandoned construction sites complaint at Northgate Street,2022-05-27,In Progress,
+100000245,Poor street cleaning complaint at University District Street,2022-01-27,Closed,15.0
+100000246,Abandoned vehicles in public areas complaint at Pine Street,2022-01-25,In Progress,
+100000247,Damaged guardrails complaint at I-90 Street,2023-02-26,Resolved,8.0
+100000248,Inadequate street drainage complaint at South Lake Union Street,2022-09-15,Resolved,12.0
+100000249,Broken sidewalk tiles complaint at First Hill Street,2024-10-22,Resolved,4.0
+100000250,Poor road maintenance complaint at Capitol Hill Street,2023-11-23,In Progress,
+100000251,Public parks without seating complaint at Denny Park Street,2023-10-10,Closed,16.0
+100000252,Lack of bike lanes complaint at Downtown Seattle Street,2023-04-27,Resolved,6.0
+100000253,Lack of bike racks complaint at Ballard Street,2022-01-08,Closed,13.0
+100000254,Inconsistent park maintenance complaint at Cal Anderson Park Street,2024-11-28,Pending,
+100000255,Poor lighting in parking lots complaint at Ballard Street,2024-07-19,Resolved,7.0
+100000256,Broken road barriers complaint at Aurora Bridge Street,2023-03-19,Closed,9.0
+100000257,Deteriorating public sculptures complaint at Downtown Seattle Street,2022-03-23,Resolved,15.0
+100000258,Broken public benches complaint at Washington Park Arboretum Street,2024-04-14,Closed,7.0
+100000259,Inadequate street drainage complaint at South Lake Union Street,2022-05-28,Pending,
+100000260,Lack of recycling bins complaint at Pioneer Square Street,2024-06-24,In Progress,
+100000261,Traffic signal malfunction complaint at Queen Anne Street,2024-10-20,Pending,
+100000262,Inadequate street drainage complaint at South Lake Union Street,2023-11-28,Closed,1.0
+100000263,Stray animals in the neighborhood complaint at Greenwood Street,2022-08-13,In Progress,
+100000264,Broken road barriers complaint at Aurora Bridge Street,2024-04-21,In Progress,
+100000265,Broken public benches complaint at Washington Park Arboretum Street,2022-09-06,Resolved,8.0
+100000266,Poor maintenance of public gyms complaint at Wallingford Street,2023-04-22,Pending,
+100000267,Unswept streets complaint at West Seattle Junction Street,2022-09-27,Closed,2.0
+100000268,Abandoned vehicles in public areas complaint at Pine Street,2024-08-21,Resolved,11.0
+100000269,Flooded streets after rain complaint at Rainier Valley Street,2022-06-16,Closed,17.0
+100000270,Missing or damaged street signs complaint at Rainier Beach Street,2023-05-24,Pending,
+100000271,Traffic congestion complaint at I-5 corridor Street,2024-11-03,Resolved,8.0
+100000272,Inadequate street drainage complaint at South Lake Union Street,2022-07-13,Closed,6.0
+100000273,Rubbish left at public events complaint at Seattle Center Street,2022-10-05,Closed,5.0
+100000274,Public benches in bad condition complaint at Volunteer Park Street,2024-06-14,Closed,10.0
+100000275,Dangerous road intersections complaint at Interbay Street,2024-03-18,Resolved,18.0
+100000276,Graffiti in bus stations complaint at Capitol Hill Station Street,2023-07-29,Pending,
+100000277,Water leakage in streets complaint at Lake City Street,2024-03-09,In Progress,
+100000278,Poor lighting in parking lots complaint at Ballard Street,2023-09-16,Closed,18.0
+100000279,Lack of emergency services complaint at West Seattle Street,2024-12-06,Resolved,5.0
+100000280,Improperly placed bus stops complaint at Capitol Hill Street,2023-06-12,Pending,
+100000281,Flooded streets after rain complaint at Rainier Valley Street,2023-07-31,Resolved,19.0
+100000282,Poor air quality complaint at Beacon Hill Street,2023-02-27,Closed,
+100000283,Deteriorating public sculptures complaint at Downtown Seattle Street,2022-08-07,Resolved,11.0
+100000284,Street erosion near waterfront complaint at Elliott Bay Street,2023-05-18,Closed,17.0
+100000285,Broken sidewalk tiles complaint at First Hill Street,2024-04-10,Closed,4.0
+100000286,Unattended illegal dumping complaint at SODO Street,2022-09-12,Resolved,6.0
+100000287,Unplanted trees in parks complaint at Discovery Park Street,2023-05-23,Closed,10.0
+100000288,Abandoned vehicles in public areas complaint at Pine Street,2024-01-20,In Progress,
+100000289,Road signs covered by trees complaint at Greenwood Street,2022-11-01,Closed,
+100000290,Bus schedule delays complaint at Rainier Beach Street,2022-12-31,Resolved,3.0
+100000291,Unpainted pedestrian lanes complaint at Alki Street,2022-06-08,Resolved,10.0
+100000292,Lack of bike racks complaint at Ballard Street,2022-01-23,Closed,16.0
+100000293,Untrimmed tree branches complaint at Ravenna Park Street,2024-04-06,Closed,13.0
+100000294,Poor maintenance of public gyms complaint at Wallingford Street,2022-12-18,Pending,
+100000295,Stray animals in the neighborhood complaint at Greenwood Street,2023-04-24,Resolved,17.0
+100000296,Damaged crosswalk markings complaint at Lake City Way Street,2022-03-22,Closed,5.0
+100000297,Overgrown trees blocking street view complaint at Lake Union Street,2024-10-25,Resolved,19.0
+100000298,Stray animals in the neighborhood complaint at Greenwood Street,2022-08-05,Resolved,9.0
+100000299,Lack of pedestrian overpasses complaint at Eastside Street,2022-08-02,Resolved,20.0
+100000300,Public benches in bad condition complaint at Volunteer Park Street,2022-09-11,Resolved,14.0
+100000301,Broken public benches complaint at Washington Park Arboretum Street,2023-01-04,Pending,
+100000302,Damaged pedestrian bridges complaint at Fremont Bridge Street,2024-10-18,Pending,
+100000303,Flooded streets after rain complaint at Rainier Valley Street,2022-05-27,In Progress,
+100000304,Inadequate public transit routes complaint at West Seattle Street,2024-04-08,Resolved,20.0
+100000305,Inadequate public transit routes complaint at West Seattle Street,2022-06-11,Pending,
+100000306,Rubbish left at public events complaint at Seattle Center Street,2024-09-22,Pending,
+100000307,Noisy street vendors complaint at Pike Place Market Street,2023-06-02,In Progress,
+100000308,Bus schedule delays complaint at Rainier Beach Street,2022-11-14,Resolved,3.0
+100000309,Unlit pathways complaint at Pinehurst Street,2023-09-10,Closed,13.0
+100000310,Missing or damaged street signs complaint at Rainier Beach Street,2024-01-31,Pending,
+100000311,Broken road barriers complaint at Aurora Bridge Street,2022-08-27,Resolved,4.0
+100000312,Unkempt public gardens complaint at Olympic Hills Street,2024-02-13,Pending,
+100000313,Lack of parking spaces complaint at Seattle Center Street,2022-03-29,Pending,
+100000314,Poor water drainage on roads complaint at Capitol Hill Street,2023-03-08,Closed,5.0
+100000315,Bus schedule delays complaint at Rainier Beach Street,2024-01-17,In Progress,
+100000316,Traffic congestion complaint at I-5 corridor Street,2024-11-05,Closed,10.0
+100000317,Public parks without seating complaint at Denny Park Street,2022-02-24,Closed,9.0
+100000318,Badly maintained public roads complaint at Aurora Avenue Street,2023-10-04,In Progress,
+100000319,Street flooding complaint at Alki Beach Street,2023-01-23,Resolved,20.0
+100000320,Street erosion near waterfront complaint at Elliott Bay Street,2024-11-09,Closed,
+100000321,Dangerous potholes complaint at South Park Street,2024-02-05,Closed,15.0
+100000322,Unswept streets complaint at West Seattle Junction Street,2024-10-06,In Progress,
+100000323,Lack of bike lanes complaint at Downtown Seattle Street,2023-04-10,Resolved,13.0
+100000324,Missing fire hydrants complaint at Madrona Street,2022-05-31,Resolved,10.0
+100000325,Inconsistent park maintenance complaint at Cal Anderson Park Street,2023-12-07,In Progress,
+100000326,Badly maintained public roads complaint at Aurora Avenue Street,2022-03-31,Resolved,19.0
+100000327,Rubbish left at public events complaint at Seattle Center Street,2022-11-28,Resolved,17.0
+100000328,Damaged crosswalk markings complaint at Lake City Way Street,2024-06-08,In Progress,
+100000329,Abandoned vehicles in public areas complaint at Pine Street,2022-02-25,Closed,2.0
+100000330,Insufficient benches in parks complaint at Carkeek Park Street,2024-11-14,In Progress,
+100000331,Poor road signage complaint at Georgetown Street,2022-03-26,Resolved,5.0
+100000332,Unsafe crosswalks complaint at First Hill Street,2024-02-06,Closed,15.0
+100000333,Water leakage in streets complaint at Lake City Street,2024-10-08,In Progress,
+100000334,Abandoned construction sites complaint at Northgate Street,2024-11-03,Closed,16.0
+100000335,Blocked storm drains complaint at Magnolia Street,2023-03-19,Closed,5.0
+100000336,Overflowing trash bins complaint at Pike Place Street,2023-11-15,Resolved,17.0
+100000337,Construction debris on sidewalks complaint at South Lake Union Street,2022-05-25,Closed,6.0
+100000338,Road signs covered by trees complaint at Greenwood Street,2022-12-14,Resolved,13.0
+100000339,Street erosion near waterfront complaint at Elliott Bay Street,2024-04-08,Pending,
+100000340,Lack of bus shelter amenities complaint at University of Washington Street,2023-04-06,Pending,
+100000341,Dirty public restrooms complaint at Waterfront Park Street,2024-03-27,In Progress,
+100000342,Broken traffic lights complaint at Admiral District Street,2023-06-13,Resolved,2.0
+100000343,Inadequate street drainage complaint at South Lake Union Street,2022-07-05,In Progress,
+100000344,Uncollected garbage complaint at South Lake Union Street,2022-10-26,In Progress,
+100000345,Unsafe bike lanes complaint at Belltown Street,2023-04-22,Closed,9.0
+100000346,Excessive parking fines complaint at University District Street,2024-05-16,In Progress,
+100000347,Unsafe bike lanes complaint at Belltown Street,2024-09-24,Pending,
+100000348,Lack of bike lanes complaint at Downtown Seattle Street,2024-10-03,Closed,5.0
+100000349,Broken sidewalk tiles complaint at First Hill Street,2024-10-12,Closed,5.0
+100000350,Inadequate street drainage complaint at South Lake Union Street,2022-01-20,In Progress,
+100000351,Road signs covered by trees complaint at Greenwood Street,2024-06-14,Pending,
+100000352,Poor pedestrian infrastructure complaint at Fremont Bridge Street,2024-06-03,Resolved,4.0
+100000353,Unstable bridges complaint at Ballard Bridge Street,2024-06-10,In Progress,
+100000354,Lack of parking spaces complaint at Seattle Center Street,2024-12-11,Resolved,19.0
+100000355,Lack of bike racks complaint at Ballard Street,2024-05-13,Resolved,12.0
+100000356,Poor street cleaning complaint at University District Street,2022-12-01,In Progress,
+100000357,Dangerous road intersections complaint at Interbay Street,2022-10-07,Resolved,6.0
+100000358,Broken sidewalk tiles complaint at First Hill Street,2022-01-17,Resolved,6.0
+100000359,Improperly placed bus stops complaint at Capitol Hill Street,2023-08-18,Closed,12.0
+100000360,Unkempt public gardens complaint at Olympic Hills Street,2022-12-23,Pending,
+100000361,Lack of emergency services complaint at West Seattle Street,2024-04-07,Resolved,17.0
+100000362,Stray animals in the neighborhood complaint at Greenwood Street,2023-03-07,Pending,
+100000363,Broken sidewalk complaint at Ballard Street,2022-09-26,Closed,13.0
+100000364,Damaged public mailboxes complaint at Ballard Street,2024-01-30,Resolved,19.0
+100000365,Stray animals in the neighborhood complaint at Greenwood Street,2022-01-31,Resolved,9.0
+100000366,Graffiti in bus stations complaint at Capitol Hill Station Street,2024-09-20,Closed,14.0
+100000367,Noise pollution at night complaint at Fremont Street,2022-12-13,Closed,3.0
+100000368,Poor air quality complaint at Beacon Hill Street,2023-10-12,Closed,11.0
+100000369,Unpainted pedestrian lanes complaint at Alki Street,2024-01-23,Closed,
+100000370,Damaged public mailboxes complaint at Ballard Street,2022-07-15,Pending,
+100000371,Damaged public mailboxes complaint at Ballard Street,2024-08-15,In Progress,
+100000372,Broken public benches complaint at Washington Park Arboretum Street,2023-04-15,Closed,12.0
+100000373,Graffiti in bus stations complaint at Capitol Hill Station Street,2023-07-20,Pending,
+100000374,Poor air quality complaint at Beacon Hill Street,2022-10-11,Resolved,5.0
+100000375,Inconsistent trash pickup complaint at Northgate Street,2023-12-28,In Progress,
+100000376,Deteriorating public sculptures complaint at Downtown Seattle Street,2022-11-29,Pending,
+100000377,Broken road barriers complaint at Aurora Bridge Street,2024-01-27,In Progress,
+100000378,Unswept streets complaint at West Seattle Junction Street,2023-06-06,In Progress,
+100000379,Inconsistent trash pickup complaint at Northgate Street,2024-07-22,Pending,
+100000380,Graffiti on public walls complaint at Belltown Street,2023-10-06,Resolved,15.0
+100000381,Unmaintained bus stops complaint at Ballard Street,2023-06-18,Pending,
+100000382,Abandoned construction sites complaint at Northgate Street,2024-09-19,In Progress,
+100000383,Vandalized public property complaint at Pioneer Square Street,2024-01-16,Pending,
+100000384,Graffiti on public walls complaint at Belltown Street,2023-07-06,Pending,
+100000385,Dangerous potholes complaint at South Park Street,2024-01-31,Pending,
+100000386,Public benches in bad condition complaint at Volunteer Park Street,2022-03-20,Resolved,18.0
+100000387,Lack of pedestrian overpasses complaint at Eastside Street,2024-03-18,Pending,
+100000388,Lack of bike racks complaint at Ballard Street,2024-11-04,Resolved,
+100000389,Damaged public signage complaint at Georgetown Street,2022-06-05,Pending,
+100000390,Improperly placed bus stops complaint at Capitol Hill Street,2023-04-23,Closed,
+100000391,Stray animals in the neighborhood complaint at Greenwood Street,2023-07-14,Pending,
+100000392,Overgrown trees blocking street view complaint at Lake Union Street,2023-04-30,Pending,
+100000393,Damaged crosswalk markings complaint at Lake City Way Street,2022-03-05,Closed,16.0
+100000394,Lack of emergency services complaint at West Seattle Street,2023-06-19,Resolved,1.0
+100000395,Insufficient benches in parks complaint at Carkeek Park Street,2022-10-12,Pending,
+100000396,Broken public fountains complaint at Olympic Sculpture Park Street,2023-08-25,Resolved,19.0
+100000397,Lack of bus shelter amenities complaint at University of Washington Street,2024-02-12,Closed,15.0
+100000398,Lack of parking spaces complaint at Seattle Center Street,2024-02-19,Closed,9.0
+100000399,Poor road signage complaint at Georgetown Street,2024-01-18,Pending,
+100000400,Unsafe crosswalks complaint at First Hill Street,2024-08-01,Closed,20.0
+100000401,Abandoned vehicles in public areas complaint at Pine Street,2024-12-18,Closed,15.0
+100000402,Lack of emergency services complaint at West Seattle Street,2022-03-07,Resolved,6.0
+100000403,Vandalized public property complaint at Pioneer Square Street,2024-03-07,Closed,18.0
+100000404,Unused public spaces complaint at International District Street,2024-01-22,Resolved,13.0
+100000405,Inconsistent trash pickup complaint at Northgate Street,2023-09-14,Closed,9.0
+100000406,Unkempt public gardens complaint at Olympic Hills Street,2024-04-28,Resolved,12.0
+100000407,Noise pollution at night complaint at Fremont Street,2024-04-04,In Progress,
+100000408,Street erosion near waterfront complaint at Elliott Bay Street,2022-12-10,Resolved,20.0
+100000409,Inconsistent park maintenance complaint at Cal Anderson Park Street,2024-01-27,Closed,19.0
+100000410,Lack of recycling bins complaint at Pioneer Square Street,2023-02-25,Pending,
+100000411,Inconsistent trash pickup complaint at Northgate Street,2024-07-27,Resolved,6.0
+100000412,Overgrown grass in public areas complaint at Seward Park Street,2022-05-29,Resolved,12.0
+100000413,Unswept streets complaint at West Seattle Junction Street,2023-05-22,Pending,
+100000414,Abandoned construction sites complaint at Northgate Street,2023-10-31,Resolved,8.0
+100000415,Public facilities without wheelchair access complaint at Seattle Public Library Street,2024-04-06,Resolved,1.0
+100000416,Construction debris on sidewalks complaint at South Lake Union Street,2023-09-21,Closed,13.0
+100000417,Overgrown trees blocking street view complaint at Lake Union Street,2023-08-11,In Progress,
+100000418,Flooded streets after rain complaint at Rainier Valley Street,2024-05-01,Closed,14.0
+100000419,Street flooding complaint at Alki Beach Street,2024-04-12,Pending,
+100000420,Inconsistent trash pickup complaint at Northgate Street,2023-05-26,Resolved,10.0
+100000421,Dirty public restrooms complaint at Waterfront Park Street,2022-11-28,In Progress,
+100000422,Inconsistent trash pickup complaint at Northgate Street,2022-08-24,In Progress,
+100000423,Inadequate street lighting in parks complaint at Gas Works Park Street,2023-12-25,Resolved,19.0
+100000424,Flooded streets after rain complaint at Rainier Valley Street,2022-05-17,Pending,
+100000425,Missing manhole covers complaint at University Way Street,2023-03-22,Pending,
+100000426,Dirty public restrooms complaint at Waterfront Park Street,2022-08-19,Closed,20.0
+100000427,Lack of parking spaces complaint at Seattle Center Street,2022-04-13,Closed,6.0
+100000428,Stray animals in the neighborhood complaint at Greenwood Street,2022-06-23,Pending,
+100000429,Lack of bus shelter amenities complaint at University of Washington Street,2022-08-19,In Progress,
+100000430,Potholes on the road complaint at Cherry Street,2022-11-13,Resolved,17.0
+100000431,Lack of bike racks complaint at Ballard Street,2022-04-09,Pending,
+100000432,Unkempt public gardens complaint at Olympic Hills Street,2024-06-30,In Progress,
+100000433,Flooded streets after rain complaint at Rainier Valley Street,2022-07-31,Pending,
+100000434,Street erosion near waterfront complaint at Elliott Bay Street,2022-11-14,Resolved,2.0
+100000435,Damaged public signage complaint at Georgetown Street,2022-06-05,Resolved,8.0
+100000436,Broken public water pipes complaint at East Queen Anne Street,2023-06-06,Pending,
+100000437,Broken public benches complaint at Washington Park Arboretum Street,2024-11-29,Resolved,9.0
+100000438,Noisy construction work at night complaint at Belltown Street,2023-05-11,In Progress,
+100000439,Graffiti in bus stations complaint at Capitol Hill Station Street,2024-12-11,In Progress,
+100000440,Abandoned vehicles in public areas complaint at Pine Street,2024-08-19,Resolved,3.0
+100000441,Graffiti in bus stations complaint at Capitol Hill Station Street,2024-04-27,Closed,7.0
+100000442,Missing manhole covers complaint at University Way Street,2023-09-24,Pending,
+100000443,Bus schedule delays complaint at Rainier Beach Street,2024-11-02,Pending,
+100000444,Damaged public mailboxes complaint at Ballard Street,2024-10-29,In Progress,
+100000445,Overflowing stormwater basins complaint at Lake Washington Street,2022-01-27,In Progress,
+100000446,Vandalized public property complaint at Pioneer Square Street,2022-05-08,Resolved,9.0
+100000447,Uncollected garbage complaint at South Lake Union Street,2022-11-10,In Progress,
+100000448,Inconsistent park maintenance complaint at Cal Anderson Park Street,2024-12-21,Pending,
+100000449,Street erosion near waterfront complaint at Elliott Bay Street,2023-04-18,Closed,
+100000450,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2023-07-09,Closed,
+100000451,Poor road maintenance complaint at Capitol Hill Street,2022-07-12,Resolved,5.0
+100000452,Overflowing trash bins complaint at Pike Place Street,2024-09-30,Closed,9.0
+100000453,Lack of playground safety complaint at Broadway Street,2023-03-03,Pending,
+100000454,Construction debris on sidewalks complaint at South Lake Union Street,2022-02-21,Pending,
+100000455,Flooded streets after rain complaint at Rainier Valley Street,2023-09-08,Pending,
+100000456,Flooded streets after rain complaint at Rainier Valley Street,2023-01-19,Pending,
+100000457,Excessive parking fines complaint at University District Street,2023-11-27,In Progress,
+100000458,Road signs covered by trees complaint at Greenwood Street,2023-09-24,Resolved,20.0
+100000459,Graffiti on public walls complaint at Belltown Street,2023-11-27,Pending,
+100000460,Dirty public restrooms complaint at Waterfront Park Street,2023-10-09,Closed,5.0
+100000461,Noisy construction work at night complaint at Belltown Street,2023-04-18,In Progress,
+100000462,Missing fire hydrants complaint at Madrona Street,2023-10-15,In Progress,
+100000463,Poor water drainage on roads complaint at Capitol Hill Street,2024-07-12,Resolved,
+100000464,Lack of recycling bins complaint at Pioneer Square Street,2022-07-31,Resolved,13.0
+100000465,Public parks without seating complaint at Denny Park Street,2022-11-15,Pending,
+100000466,Poor street cleaning complaint at University District Street,2024-12-27,Closed,14.0
+100000467,Missing public trash cans complaint at Fremont Street,2022-03-27,Closed,5.0
+100000468,Unmaintained playgrounds complaint at Madison Park Street,2023-01-22,Resolved,13.0
+100000469,Abandoned vehicles in public areas complaint at Pine Street,2024-12-20,Pending,
+100000470,Poor air quality complaint at Beacon Hill Street,2024-12-13,Closed,3.0
+100000471,Noisy construction work at night complaint at Belltown Street,2022-04-04,Closed,10.0
+100000472,Inconsistent park maintenance complaint at Cal Anderson Park Street,2024-04-21,In Progress,
+100000473,Poor pedestrian infrastructure complaint at Fremont Bridge Street,2023-10-16,In Progress,
+100000474,Blocked storm drains complaint at Magnolia Street,2023-04-01,Resolved,
+100000475,Unswept streets complaint at West Seattle Junction Street,2022-05-27,In Progress,
+100000476,Public benches in bad condition complaint at Volunteer Park Street,2022-01-08,Resolved,10.0
+100000477,Street erosion near waterfront complaint at Elliott Bay Street,2024-02-24,Resolved,20.0
+100000478,Rubbish left at public events complaint at Seattle Center Street,2022-12-23,In Progress,
+100000479,Unmaintained bus stops complaint at Ballard Street,2024-08-24,Resolved,5.0
+100000480,Graffiti on public transport complaint at Sound Transit Street,2023-10-05,Closed,5.0
+100000481,Overflowing stormwater basins complaint at Lake Washington Street,2023-12-13,Resolved,13.0
+100000482,Snow removal issues in residential areas complaint at Magnolia Street,2024-12-24,Closed,18.0
+100000483,Uneven road surfaces complaint at Greenlake Street,2024-11-27,Resolved,18.0
+100000484,Vandalized public property complaint at Pioneer Square Street,2022-08-23,In Progress,
+100000485,Damaged public mailboxes complaint at Ballard Street,2022-01-04,Closed,18.0
+100000486,Inadequate street lighting in parks complaint at Gas Works Park Street,2022-01-13,Resolved,14.0
+100000487,Damaged public mailboxes complaint at Ballard Street,2024-01-02,Pending,
+100000488,Unplanted trees in parks complaint at Discovery Park Street,2022-09-11,Closed,9.0
+100000489,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2023-10-17,In Progress,
+100000490,Unmaintained playgrounds complaint at Madison Park Street,2022-08-21,Pending,
+100000491,Unused public spaces complaint at International District Street,2022-12-02,In Progress,
+100000492,Poor road signage complaint at Georgetown Street,2023-08-08,In Progress,
+100000493,Improperly placed bus stops complaint at Capitol Hill Street,2024-07-27,In Progress,
+100000494,Lack of playground safety complaint at Broadway Street,2024-09-19,Closed,4.0
+100000495,Traffic signal malfunction complaint at Queen Anne Street,2022-12-20,In Progress,
+100000496,Overgrown trees blocking street view complaint at Lake Union Street,2023-03-16,Pending,
+100000497,Uneven road surfaces complaint at Greenlake Street,2023-12-19,Resolved,3.0
+100000498,Poor pedestrian infrastructure complaint at Fremont Bridge Street,2024-01-25,In Progress,
+100000499,Poor road maintenance complaint at Capitol Hill Street,2022-07-24,Closed,13.0
+100000500,Public facilities without wheelchair access complaint at Seattle Public Library Street,2024-10-22,In Progress,
+100000501,Pedestrian safety issues complaint at Chinatown-International District Street,2023-01-28,Closed,7.0
+100000502,Lack of pedestrian overpasses complaint at Eastside Street,2023-02-20,Pending,
+100000503,Graffiti in bus stations complaint at Capitol Hill Station Street,2024-03-18,Pending,
+100000504,Vandalized public property complaint at Pioneer Square Street,2024-05-22,Closed,17.0
+100000505,Graffiti in bus stations complaint at Capitol Hill Station Street,2024-09-04,Pending,
+100000506,Road signs covered by trees complaint at Greenwood Street,2023-09-26,Resolved,15.0
+100000507,Damaged guardrails complaint at I-90 Street,2023-12-27,Pending,
+100000508,Graffiti on public transport complaint at Sound Transit Street,2023-06-30,Pending,
+100000509,Damaged public mailboxes complaint at Ballard Street,2022-08-13,In Progress,
+100000510,Bus schedule delays complaint at Rainier Beach Street,2024-01-02,Resolved,6.0
+100000511,Potholes on the road complaint at Cherry Street,2023-10-26,Closed,19.0
+100000512,Unattended illegal dumping complaint at SODO Street,2023-04-14,Resolved,1.0
+100000513,Street flooding complaint at Alki Beach Street,2024-02-24,Pending,
+100000514,Broken public benches complaint at Washington Park Arboretum Street,2024-04-03,Resolved,4.0
+100000515,Unkempt public gardens complaint at Olympic Hills Street,2023-09-19,In Progress,
+100000516,Damaged pedestrian bridges complaint at Fremont Bridge Street,2023-11-26,Closed,12.0
+100000517,Water leakage in streets complaint at Lake City Street,2023-07-16,Pending,
+100000518,Poor road signage complaint at Georgetown Street,2023-02-22,Resolved,2.0
+100000519,Water leakage in streets complaint at Lake City Street,2023-01-31,Resolved,4.0
+100000520,Street erosion near waterfront complaint at Elliott Bay Street,2024-03-19,Closed,15.0
+100000521,Poor maintenance of public gyms complaint at Wallingford Street,2022-09-18,Resolved,14.0
+100000522,Damaged public signage complaint at Georgetown Street,2024-12-15,Resolved,5.0
+100000523,Broken public water pipes complaint at East Queen Anne Street,2024-04-08,Resolved,8.0
+100000524,Deteriorating public sculptures complaint at Downtown Seattle Street,2024-04-15,Closed,18.0
+100000525,Poor lighting in parking lots complaint at Ballard Street,2024-12-27,Pending,
+100000526,Potholes on the road complaint at Cherry Street,2023-10-03,Resolved,19.0
+100000527,Street erosion near waterfront complaint at Elliott Bay Street,2022-08-31,Closed,8.0
+100000528,Abandoned vehicles in public areas complaint at Pine Street,2022-12-16,Resolved,4.0
+100000529,Graffiti on public transport complaint at Sound Transit Street,2023-02-19,In Progress,
+100000530,Lack of bike lanes complaint at Downtown Seattle Street,2022-11-12,Closed,7.0
+100000531,Lack of parking spaces complaint at Seattle Center Street,2024-01-25,In Progress,
+100000532,Lack of parking spaces complaint at Seattle Center Street,2024-07-28,Resolved,9.0
+100000533,Lack of emergency services complaint at West Seattle Street,2023-09-05,Resolved,6.0
+100000534,Traffic signal malfunction complaint at Queen Anne Street,2024-02-03,Pending,
+100000535,Damaged crosswalk markings complaint at Lake City Way Street,2023-09-21,In Progress,
+100000536,Excessive parking fines complaint at University District Street,2024-02-17,Pending,
+100000537,Unpainted pedestrian lanes complaint at Alki Street,2024-01-07,In Progress,
+100000538,Street flooding complaint at Alki Beach Street,2022-05-25,Resolved,8.0
+100000539,Poor maintenance of public gyms complaint at Wallingford Street,2024-12-30,Resolved,9.0
+100000540,Noisy construction work at night complaint at Belltown Street,2023-03-18,Closed,9.0
+100000541,Potholes on the road complaint at Cherry Street,2022-06-12,Pending,
+100000542,Street flooding complaint at Alki Beach Street,2022-01-14,Closed,18.0
+100000543,Unattended illegal dumping complaint at SODO Street,2022-02-06,Closed,12.0
+100000544,Old public infrastructure complaint at Queen Anne Hill Street,2024-04-04,Closed,1.0
+100000545,Unmaintained playgrounds complaint at Madison Park Street,2024-02-21,Pending,
+100000546,Unattended illegal dumping complaint at SODO Street,2022-12-10,Closed,12.0
+100000547,Noisy street vendors complaint at Pike Place Market Street,2022-12-10,Resolved,11.0
+100000548,Overflowing trash bins complaint at Pike Place Street,2022-05-05,Closed,14.0
+100000549,Poor road signage complaint at Georgetown Street,2023-10-01,Pending,
+100000550,Broken public fountains complaint at Olympic Sculpture Park Street,2024-11-24,Pending,
+100000551,Deteriorating public paths complaint at Alki Beach Street,2022-05-03,Pending,
+100000552,Overflowing trash bins complaint at Pike Place Street,2024-12-15,Pending,
+100000553,Unsafe parks complaint at Delridge Street,2023-11-17,Closed,16.0
+100000554,Street flooding complaint at Alki Beach Street,2022-04-10,Pending,
+100000555,Street flooding complaint at Alki Beach Street,2022-07-23,In Progress,
+100000556,Pedestrian safety issues complaint at Chinatown-International District Street,2023-04-06,Closed,20.0
+100000557,Old public infrastructure complaint at Queen Anne Hill Street,2024-02-21,Pending,
+100000558,Flooded streets after rain complaint at Rainier Valley Street,2024-08-08,Pending,
+100000559,Noisy street vendors complaint at Pike Place Market Street,2024-05-03,Pending,
+100000560,Broken streetlights complaint at Capitol Hill Street,2024-01-26,Resolved,11.0
+100000561,Broken road barriers complaint at Aurora Bridge Street,2022-04-13,Resolved,5.0
+100000562,Inadequate public transit routes complaint at West Seattle Street,2024-06-07,Pending,
+100000563,Unsafe crosswalks complaint at First Hill Street,2023-05-26,Closed,20.0
+100000564,Poor pedestrian infrastructure complaint at Fremont Bridge Street,2024-10-07,In Progress,
+100000565,Noisy street vendors complaint at Pike Place Market Street,2022-12-09,In Progress,
+100000566,Lack of pedestrian overpasses complaint at Eastside Street,2023-03-21,Closed,3.0
+100000567,Lack of parking spaces complaint at Seattle Center Street,2024-09-16,In Progress,
+100000568,Street flooding complaint at Alki Beach Street,2023-11-12,Resolved,18.0
+100000569,Lack of parking spaces complaint at Seattle Center Street,2024-11-27,Resolved,19.0
+100000570,Lack of bus shelter amenities complaint at University of Washington Street,2024-04-02,In Progress,
+100000571,Poor road signage complaint at Georgetown Street,2022-01-28,Pending,
+100000572,Unswept streets complaint at West Seattle Junction Street,2022-06-26,In Progress,
+100000573,Traffic congestion complaint at I-5 corridor Street,2023-08-31,Closed,5.0
+100000574,Poor lighting in parking lots complaint at Ballard Street,2022-05-09,Resolved,3.0
+100000575,Street flooding complaint at Alki Beach Street,2023-03-18,Closed,11.0
+100000576,Snow removal issues in residential areas complaint at Magnolia Street,2022-07-19,In Progress,
+100000577,Noisy construction work at night complaint at Belltown Street,2023-08-13,Pending,
+100000578,Excessive parking fines complaint at University District Street,2024-09-22,Closed,19.0
+100000579,Damaged crosswalk markings complaint at Lake City Way Street,2024-12-25,Resolved,5.0
+100000580,Damaged pedestrian bridges complaint at Fremont Bridge Street,2024-01-31,Pending,
+100000581,Overgrown trees blocking street view complaint at Lake Union Street,2024-05-07,Resolved,5.0
+100000582,Insufficient benches in parks complaint at Carkeek Park Street,2022-04-23,Resolved,5.0
+100000583,Poor air quality complaint at Beacon Hill Street,2022-11-05,In Progress,
+100000584,Graffiti on public walls complaint at Belltown Street,2024-01-10,Resolved,1.0
+100000585,Water leakage in streets complaint at Lake City Street,2024-05-22,Resolved,2.0
+100000586,Broken public benches complaint at Washington Park Arboretum Street,2024-05-21,Closed,1.0
+100000587,Damaged guardrails complaint at I-90 Street,2023-12-03,In Progress,
+100000588,Lack of bus shelter amenities complaint at University of Washington Street,2022-06-16,Resolved,20.0
+100000589,Blocked storm drains complaint at Magnolia Street,2023-10-15,Pending,
+100000590,Unmaintained bus stops complaint at Ballard Street,2022-10-13,In Progress,
+100000591,Defunct vending machines complaint at Northgate Mall Street,2023-01-22,In Progress,
+100000592,Pedestrian safety issues complaint at Chinatown-International District Street,2023-03-17,In Progress,
+100000593,Dirty public restrooms complaint at Waterfront Park Street,2024-10-19,Pending,
+100000594,Road signs covered by trees complaint at Greenwood Street,2024-05-12,Resolved,10.0
+100000595,Unsafe parks complaint at Delridge Street,2024-10-08,In Progress,
+100000596,Missing or damaged street signs complaint at Rainier Beach Street,2022-02-26,Resolved,8.0
+100000597,Poor air quality complaint at Beacon Hill Street,2024-03-12,Resolved,18.0
+100000598,Road signs covered by trees complaint at Greenwood Street,2024-09-10,Closed,12.0
+100000599,Road signs covered by trees complaint at Greenwood Street,2023-06-17,Closed,19.0
+100000600,Public facilities without wheelchair access complaint at Seattle Public Library Street,2023-10-04,Resolved,19.0
+100000601,Potholes on the road complaint at Cherry Street,2022-05-13,Closed,9.0
+100000602,Construction debris on sidewalks complaint at South Lake Union Street,2023-09-18,Closed,2.0
+100000603,Broken road barriers complaint at Aurora Bridge Street,2024-06-06,Pending,
+100000604,Unlit pathways complaint at Pinehurst Street,2024-10-02,In Progress,
+100000605,Unkempt public gardens complaint at Olympic Hills Street,2024-03-13,In Progress,
+100000606,Lack of bike lanes complaint at Downtown Seattle Street,2022-11-07,In Progress,
+100000607,Unstable bridges complaint at Ballard Bridge Street,2022-10-26,Pending,
+100000608,Uncollected garbage complaint at South Lake Union Street,2023-05-26,In Progress,
+100000609,Defunct vending machines complaint at Northgate Mall Street,2024-08-29,Closed,2.0
+100000610,Poor road maintenance complaint at Capitol Hill Street,2023-10-13,Pending,
+100000611,Snow removal issues in residential areas complaint at Magnolia Street,2023-05-30,Pending,
+100000612,Lack of pedestrian overpasses complaint at Eastside Street,2022-09-14,In Progress,
+100000613,Unsafe crosswalks complaint at First Hill Street,2022-09-20,Resolved,6.0
+100000614,Inconsistent park maintenance complaint at Cal Anderson Park Street,2023-01-08,Pending,
+100000615,Lack of bike lanes complaint at Downtown Seattle Street,2022-04-14,Pending,
+100000616,Unkempt public gardens complaint at Olympic Hills Street,2024-10-06,Pending,
+100000617,Broken public benches complaint at Washington Park Arboretum Street,2024-08-25,Closed,13.0
+100000618,Broken sidewalk complaint at Ballard Street,2023-06-28,In Progress,
+100000619,Unkempt public gardens complaint at Olympic Hills Street,2023-07-11,Resolved,
+100000620,Insufficient benches in parks complaint at Carkeek Park Street,2023-09-04,In Progress,
+100000621,Lack of bus shelter amenities complaint at University of Washington Street,2022-07-01,Resolved,20.0
+100000622,Vandalized public property complaint at Pioneer Square Street,2024-01-06,Pending,
+100000623,Unswept streets complaint at West Seattle Junction Street,2023-03-16,Closed,3.0
+100000624,Lack of parking spaces complaint at Seattle Center Street,2023-10-31,Pending,
+100000625,Graffiti on public transport complaint at Sound Transit Street,2024-10-13,Resolved,12.0
+100000626,Poor road signage complaint at Georgetown Street,2024-06-06,Closed,17.0
+100000627,Damaged pedestrian bridges complaint at Fremont Bridge Street,2024-04-10,In Progress,
+100000628,Broken traffic lights complaint at Admiral District Street,2022-01-29,Resolved,13.0
+100000629,Traffic congestion complaint at I-5 corridor Street,2023-05-24,Pending,
+100000630,Overflowing trash bins complaint at Pike Place Street,2022-04-23,In Progress,
+100000631,Uneven road surfaces complaint at Greenlake Street,2022-05-02,In Progress,
+100000632,Damaged public signage complaint at Georgetown Street,2023-06-09,Resolved,10.0
+100000633,Poor road maintenance complaint at Capitol Hill Street,2022-08-19,Closed,11.0
+100000634,Poor road signage complaint at Georgetown Street,2022-07-30,Resolved,11.0
+100000635,Construction debris on sidewalks complaint at South Lake Union Street,2022-04-19,In Progress,
+100000636,Broken public fountains complaint at Olympic Sculpture Park Street,2022-01-12,In Progress,
+100000637,Inadequate street lighting in parks complaint at Gas Works Park Street,2022-04-19,In Progress,
+100000638,Overgrown trees blocking street view complaint at Lake Union Street,2024-06-10,Pending,
+100000639,Abandoned construction sites complaint at Northgate Street,2024-07-11,In Progress,
+100000640,Snow removal issues in residential areas complaint at Magnolia Street,2023-07-26,In Progress,
+100000641,Missing manhole covers complaint at University Way Street,2022-10-14,In Progress,
+100000642,Damaged public mailboxes complaint at Ballard Street,2022-11-12,Resolved,20.0
+100000643,Unstable bridges complaint at Ballard Bridge Street,2024-06-08,Pending,
+100000644,Abandoned vehicles in public areas complaint at Pine Street,2024-08-07,Closed,20.0
+100000645,Unused public spaces complaint at International District Street,2024-05-14,Resolved,10.0
+100000646,Lack of bike lanes complaint at Downtown Seattle Street,2023-08-16,In Progress,
+100000647,Construction debris on sidewalks complaint at South Lake Union Street,2022-03-04,Pending,
+100000648,Unpainted pedestrian lanes complaint at Alki Street,2023-09-20,Resolved,7.0
+100000649,Unmaintained bus stops complaint at Ballard Street,2022-06-19,Resolved,8.0
+100000650,Unlit pathways complaint at Pinehurst Street,2022-01-27,Resolved,6.0
+100000651,Noisy construction work at night complaint at Belltown Street,2023-06-22,Pending,
+100000652,Damaged guardrails complaint at I-90 Street,2022-09-03,Closed,16.0
+100000653,Water leakage in streets complaint at Lake City Street,2022-07-29,In Progress,
+100000654,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2022-10-23,In Progress,
+100000655,Lack of bike racks complaint at Ballard Street,2022-12-04,In Progress,
+100000656,Poor air quality complaint at Beacon Hill Street,2023-09-29,In Progress,
+100000657,Dangerous potholes complaint at South Park Street,2022-02-07,Closed,13.0
+100000658,Inadequate street drainage complaint at South Lake Union Street,2022-05-19,In Progress,
+100000659,Overgrown trees blocking street view complaint at Lake Union Street,2023-12-20,In Progress,
+100000660,Unkempt public gardens complaint at Olympic Hills Street,2024-07-25,Resolved,15.0
+100000661,Bus schedule delays complaint at Rainier Beach Street,2022-03-25,Pending,
+100000662,Lack of bike racks complaint at Ballard Street,2023-08-18,In Progress,
+100000663,Public facilities without wheelchair access complaint at Seattle Public Library Street,2023-03-20,Pending,
+100000664,Lack of bus shelter amenities complaint at University of Washington Street,2023-10-14,Pending,
+100000665,Missing or damaged street signs complaint at Rainier Beach Street,2023-03-13,Resolved,1.0
+100000666,Damaged guardrails complaint at I-90 Street,2023-07-13,Pending,
+100000667,Bus schedule delays complaint at Rainier Beach Street,2022-05-10,Closed,12.0
+100000668,Badly maintained public roads complaint at Aurora Avenue Street,2023-02-14,Pending,
+100000669,Damaged pedestrian bridges complaint at Fremont Bridge Street,2023-07-17,Pending,
+100000670,Lack of emergency services complaint at West Seattle Street,2024-05-09,Closed,20.0
+100000671,Improperly placed bus stops complaint at Capitol Hill Street,2022-12-19,Resolved,11.0
+100000672,Damaged crosswalk markings complaint at Lake City Way Street,2022-01-30,In Progress,
+100000673,Improperly placed bus stops complaint at Capitol Hill Street,2024-07-12,In Progress,
+100000674,Poor lighting in parking lots complaint at Ballard Street,2022-11-25,In Progress,
+100000675,Inconsistent park maintenance complaint at Cal Anderson Park Street,2024-11-30,Resolved,9.0
+100000676,Potholes on the road complaint at Cherry Street,2022-09-16,Pending,
+100000677,Lack of bike lanes complaint at Downtown Seattle Street,2022-02-17,Pending,
+100000678,Unsafe bike lanes complaint at Belltown Street,2024-08-15,Resolved,7.0
+100000679,Graffiti on public transport complaint at Sound Transit Street,2024-03-14,Resolved,1.0
+100000680,Lack of playground safety complaint at Broadway Street,2024-04-05,In Progress,
+100000681,Traffic signal malfunction complaint at Queen Anne Street,2022-08-23,Pending,
+100000682,Inadequate street drainage complaint at South Lake Union Street,2022-07-10,Closed,12.0
+100000683,Pedestrian safety issues complaint at Chinatown-International District Street,2023-02-07,Closed,10.0
+100000684,Uncollected garbage complaint at South Lake Union Street,2022-02-10,Resolved,20.0
+100000685,Unsafe bike lanes complaint at Belltown Street,2022-02-10,Resolved,6.0
+100000686,Graffiti on public walls complaint at Belltown Street,2022-04-02,Pending,
+100000687,Public facilities without wheelchair access complaint at Seattle Public Library Street,2024-05-08,In Progress,
+100000688,Missing fire hydrants complaint at Madrona Street,2022-05-23,Pending,
+100000689,Graffiti on public walls complaint at Belltown Street,2022-08-30,Pending,
+100000690,Inconsistent park maintenance complaint at Cal Anderson Park Street,2022-10-10,In Progress,
+100000691,Traffic signal malfunction complaint at Queen Anne Street,2022-03-23,In Progress,
+100000692,Overflowing stormwater basins complaint at Lake Washington Street,2022-08-09,Pending,
+100000693,Unmaintained playgrounds complaint at Madison Park Street,2024-04-09,Resolved,
+100000694,Unfilled sidewalk cracks complaint at Upper Queen Anne Street,2022-07-01,Closed,17.0
+100000695,Poor water drainage on roads complaint at Capitol Hill Street,2022-06-30,Resolved,
+100000696,Broken public water pipes complaint at East Queen Anne Street,2022-06-21,In Progress,
+100000697,Broken streetlights complaint at Capitol Hill Street,2024-12-28,Pending,
+100000698,Lack of playground safety complaint at Broadway Street,2022-12-31,In Progress,
+100000699,Unmaintained bus stops complaint at Ballard Street,2022-04-07,Resolved,6.0
+100000700,Broken sidewalk complaint at Ballard Street,2022-08-20,Resolved,4.0
+100000701,Broken public fountains complaint at Olympic Sculpture Park Street,2023-06-30,Pending,
+100000702,Noise pollution at night complaint at Fremont Street,2024-03-12,Resolved,11.0
+100000703,Poor road signage complaint at Georgetown Street,2023-12-08,In Progress,
+100000704,Missing public trash cans complaint at Fremont Street,2022-05-17,In Progress,
+100000705,Flooded streets after rain complaint at Rainier Valley Street,2024-12-26,Pending,
+100000706,Unsafe bike lanes complaint at Belltown Street,2023-09-01,Resolved,1.0
+100000707,Unswept streets complaint at West Seattle Junction Street,2023-09-09,Resolved,13.0
+100000708,Rubbish left at public events complaint at Seattle Center Street,2024-09-11,Pending,
+100000709,Unmaintained playgrounds complaint at Madison Park Street,2023-03-12,Closed,3.0
+100000710,Stray animals in the neighborhood complaint at Greenwood Street,2024-12-23,Closed,16.0
+100000711,Construction debris on sidewalks complaint at South Lake Union Street,2023-04-24,In Progress,
+100000712,Dangerous road intersections complaint at Interbay Street,2024-04-11,Closed,14.0
+100000713,Abandoned construction sites complaint at Northgate Street,2023-08-18,Closed,19.0
+100000714,Missing fire hydrants complaint at Madrona Street,2022-10-21,Pending,
+100000715,Bus schedule delays complaint at Rainier Beach Street,2024-07-03,Closed,11.0
+100000716,Damaged public mailboxes complaint at Ballard Street,2024-12-21,Closed,5.0
+100000717,Poor road signage complaint at Georgetown Street,2023-09-13,Resolved,9.0
+100000718,Old public infrastructure complaint at Queen Anne Hill Street,2023-06-24,In Progress,
+100000719,Graffiti on public transport complaint at Sound Transit Street,2022-09-15,In Progress,
+100000720,Noisy street vendors complaint at Pike Place Market Street,2023-11-05,Resolved,10.0
+100000721,Poor lighting in parking lots complaint at Ballard Street,2022-02-04,Pending,
+100000722,Lack of bus shelter amenities complaint at University of Washington Street,2023-06-12,Pending,
+100000723,Inadequate street lighting in parks complaint at Gas Works Park Street,2024-12-27,Resolved,11.0
+100000724,Inadequate public transit routes complaint at West Seattle Street,2024-06-24,Pending,
+100000725,Excessive parking fines complaint at University District Street,2024-01-05,Resolved,10.0
+100000726,Missing manhole covers complaint at University Way Street,2024-01-13,Resolved,12.0
+100000727,Damaged public mailboxes complaint at Ballard Street,2024-11-24,Closed,12.0
+100000728,Damaged crosswalk markings complaint at Lake City Way Street,2023-01-22,In Progress,
+100000729,Untrimmed tree branches complaint at Ravenna Park Street,2023-12-10,Closed,20.0
+100000730,Lack of parking spaces complaint at Seattle Center Street,2024-12-23,Pending,
+100000731,Noisy street vendors complaint at Pike Place Market Street,2023-08-18,Pending,
