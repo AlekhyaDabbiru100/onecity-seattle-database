@@ -246,6 +246,3 @@ This project helped me practice relational modeling, SQL queries, business rules
 In simple terms, the goal was not just to create tables.
 
 The goal was to design a database that could help residents and city decision-makers better understand how a city works.
-└── visuals/
-    ├── external_model.png
-    └── logical_model.png
